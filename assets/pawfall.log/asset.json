@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "rolling log, 4 rotation frames (end-grain rings visible), feet-anchored",
+  "files": [
+    {
+      "bytes": 230,
+      "path": "log.png",
+      "sha256": "cde66152f477329972163a2287c47d869827ea29dd05f3a73f1aaefcbd49a02b"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "024dcaaab3e69db0d55faf8356a811c573fdfe9bf7ab881dc01e1bdf8ca6c316",
+  "id": "pawfall.log",
+  "license": "CC0-1.0",
+  "name": "log",
+  "palette": [
+    "#1a1420",
+    "#5a3a1a",
+    "#8a5a2a",
+    "#c48a4a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 10,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}
