@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "the vine grab point (hanging knot with leaf)",
+  "files": [
+    {
+      "bytes": 125,
+      "path": "vine_knot.png",
+      "sha256": "392d96a0f3a7a1c4845869045400aa1b7433854bc7c4a2b2144714259e02a517"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "67b6f00d4a1ba9913ae7338cfc2ada3b2562bf039c9665af06c88726378d95f9",
+  "id": "pawfall.vine-knot",
+  "license": "CC0-1.0",
+  "name": "vine_knot",
+  "palette": [
+    "#1d7a2c",
+    "#2f9a34",
+    "#3d2610",
+    "#3fae3f",
+    "#5a3a1a",
+    "#7b4f26",
+    "#8ad65a",
+    "#a06a34"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 6,
+    "w": 6
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

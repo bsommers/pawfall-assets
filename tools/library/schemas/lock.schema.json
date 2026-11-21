@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://game-factory/schemas/lock.schema.json",
+  "title": "assets.lock.json (written by library.install)",
+  "type": "object",
+  "required": ["lockVersion", "assets"],
+  "additionalProperties": false,
+  "properties": {
+    "lockVersion": { "const": 1 },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object", "required": ["id", "version", "type", "library", "hash", "dest", "files"], "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string" }, "version": { "type": "string" }, "type": { "type": "string" }, "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "library": { "type": "object", "required": ["name", "version"], "additionalProperties": false, "properties": { "name": { "type": "string" }, "version": { "type": "string" }, "source": { "type": "string" } } },
+          "dest": { "type": "string" },
+          "files": { "type": "array", "items": { "type": "object", "required": ["path", "sha256", "bytes"], "properties": { "path": { "type": "string" }, "sha256": { "type": "string" }, "bytes": { "type": "integer" } } } }
+        }
+      }
+    }
+  }
+}

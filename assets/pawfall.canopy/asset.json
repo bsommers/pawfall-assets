@@ -1,0 +1,42 @@
+{
+  "author": "PawFall team",
+  "description": "leaf canopy chunk, 3 variants, tileable horizontally at the left/right edges; overhanging blobs underneath; anchor top-left",
+  "files": [
+    {
+      "bytes": 1924,
+      "path": "canopy.png",
+      "sha256": "fbb6df185c9a4c2710f9efbb9fb84d9594f32ae128359b1f177a5f5b34aafffd"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "ab58fde4bc278c6da27e4fd898d505471d5e708a447a48d9be6fdd7a2405e91b",
+  "id": "pawfall.canopy",
+  "license": "CC0-1.0",
+  "name": "canopy",
+  "palette": [
+    "#06240f",
+    "#0b3d1a",
+    "#1d7a2c",
+    "#2f9a34",
+    "#3fae3f",
+    "#8ad65a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 36,
+    "w": 64
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"title\": 126 bpm, 8 bars, loops",
+  "duration": 15.24,
+  "files": [
+    {
+      "bytes": 672044,
+      "path": "title.wav",
+      "sha256": "66f3061c9887d296488e2de97b1e04a58ba9704c49df31404c050562a174b802"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "b1f6e64eaf1011eb1a1effb7e71efc66d24681fea166a2f0700b95f1faf32edf",
+  "id": "pawfall.song-title",
+  "license": "CC0-1.0",
+  "name": "title",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "loop",
+    "music",
+    "pawfall",
+    "procedural"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

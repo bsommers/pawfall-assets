@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"die\" (2 voices)",
+  "duration": 0.82,
+  "files": [
+    {
+      "bytes": 345,
+      "path": "die.voices.json",
+      "sha256": "c6859eac7f98e64baa6a448a028e5d4c70e0383ad013fca754f3711abd7d52e1"
+    },
+    {
+      "bytes": 36206,
+      "path": "die.wav",
+      "sha256": "95c3eb6bcbf7dc1a10ee04b77433f789f3755093374dcf53f6bc301c39d4a7ad"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "794257782ab9fa476a6bb992f150f01507e4b7687db2fcf78635ca58347b5afa",
+  "id": "pawfall.sfx-die",
+  "license": "CC0-1.0",
+  "name": "die",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

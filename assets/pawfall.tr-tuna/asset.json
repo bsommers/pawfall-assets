@@ -1,0 +1,44 @@
+{
+  "author": "PawFall team",
+  "description": "tuna tin treasure + shimmer (3 frames)",
+  "files": [
+    {
+      "bytes": 235,
+      "path": "tr_tuna.png",
+      "sha256": "631b50ccd552f6dec97fdfca64969526d6b7475b3b4040322d2a8a2b794e66d8"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "044278ba70c5914c5fc3f868155e98efa5043ed4ea8806b910037947a849b60a",
+  "id": "pawfall.tr-tuna",
+  "license": "CC0-1.0",
+  "name": "tr_tuna",
+  "palette": [
+    "#1a1420",
+    "#8d96b8",
+    "#c8d0e0",
+    "#d63a2f",
+    "#f4f8ff",
+    "#ff7a8a",
+    "#ffa8b4",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 12,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,54 @@
+{
+  "author": "PawFall team",
+  "description": "rise / peak (tucked) / fall (paws out)",
+  "files": [
+    {
+      "bytes": 547,
+      "path": "colby_jump.png",
+      "sha256": "86dab329859d7a6f5811f61fdeb1869dbaf11b38399b6c9a80dc074db2b37fd2"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "2d9138786e174902ff81677faed08525af9e19c255b0252ace056f0d5fdb118c",
+  "id": "pawfall.colby-jump",
+  "license": "CC0-1.0",
+  "name": "colby_jump",
+  "palette": [
+    "#1a1420",
+    "#1f4a12",
+    "#5a3a1a",
+    "#7bd44a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#e86a7a",
+    "#e8d68a",
+    "#f08a24",
+    "#ff6a58",
+    "#ff8fa3",
+    "#ffc26a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

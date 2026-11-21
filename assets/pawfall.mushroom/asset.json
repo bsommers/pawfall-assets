@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "spotty mushroom decor",
+  "files": [
+    {
+      "bytes": 201,
+      "path": "mushroom.png",
+      "sha256": "5bb4dc71d5788174bdc5be98d8df031db95f487354d8da422bff99530d3a14a8"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "f3849ee09e393e4cf9095e1f55f6f9c26da2e73ad965b68b2a51953d7b5fca15",
+  "id": "pawfall.mushroom",
+  "license": "CC0-1.0",
+  "name": "mushroom",
+  "palette": [
+    "#8f7a3c",
+    "#c9b26a",
+    "#d63a2f",
+    "#d8e0f0",
+    "#ff7a1a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 10
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

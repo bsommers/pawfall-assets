@@ -1,0 +1,41 @@
+{
+  "author": "PawFall team",
+  "description": "Pete's rolling cheese wheel (round, holes, rotates 4 frames)",
+  "files": [
+    {
+      "bytes": 318,
+      "path": "cheese.png",
+      "sha256": "5919a09be384d12a6038adcf1224592d6cc61066f2b06e419f98102008689e94"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "0c915e5f79cc0f51fec0e079ed87326c3efcd659cf91aebe540f34e6364608bb",
+  "id": "pawfall.cheese",
+  "license": "CC0-1.0",
+  "name": "cheese",
+  "palette": [
+    "#1a1420",
+    "#a87a2a",
+    "#d9a41a",
+    "#ffd23a",
+    "#ffe98a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 14,
+    "w": 14
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "ladder top segment poking above the path (with hole rim)",
+  "files": [
+    {
+      "bytes": 137,
+      "path": "ladder_top.png",
+      "sha256": "f7cbd15bc7b579a983e592bd798672d566495446b35fbf4f6841d3025a4eb228"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "634d0fe3a263f592b7e25a29a67fb486bee589a456143ee66a8d742206010c63",
+  "id": "pawfall.ladder-top",
+  "license": "CC0-1.0",
+  "name": "ladder_top",
+  "palette": [
+    "#120a12",
+    "#241420",
+    "#3d2610",
+    "#5a3a1a",
+    "#7b4f26",
+    "#a06a34",
+    "#a87a2a",
+    "#d9a441"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 8,
+    "w": 12
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

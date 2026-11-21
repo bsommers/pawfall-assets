@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "rising bubble",
+  "files": [
+    {
+      "bytes": 108,
+      "path": "fx_bubble.png",
+      "sha256": "61b70e0537ea44c6200fb8e2d0a04512292d94b2bb8e1326cdacc5fbee730fe3"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "84f7637480abc72453cc9c386a7d33030fede10e9f6d8c032fb3b4eddeee8d09",
+  "id": "pawfall.fx-bubble",
+  "license": "CC0-1.0",
+  "name": "fx_bubble",
+  "palette": [
+    "#2a6fd6",
+    "#7ec8ff",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 4,
+    "w": 4
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

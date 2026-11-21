@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "tunnel ceiling band with roots (2 variants) — seamless with tile_dirt",
+  "files": [
+    {
+      "bytes": 272,
+      "path": "tile_ceil.png",
+      "sha256": "d7e58263117746ed31a272b12b1f61d8f27144608527efe73098ec026701056b"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "a0c92ff4c62e495683d2a2015a0cfac7ac8034199b9376b14fe71e5db742974e",
+  "id": "pawfall.tile-ceil",
+  "license": "CC0-1.0",
+  "name": "tile_ceil",
+  "palette": [
+    "#241420",
+    "#3a2416",
+    "#3d2610",
+    "#5a3a1a",
+    "#5a3a22",
+    "#7a5232",
+    "#7b4f26"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

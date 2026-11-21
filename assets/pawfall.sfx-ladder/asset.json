@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"ladder\" (3 voices)",
+  "duration": 0.21,
+  "files": [
+    {
+      "bytes": 348,
+      "path": "ladder.voices.json",
+      "sha256": "36f9898139406851b8566b07d35c840d0587fad2ffffa3919c55c03fa7500bb4"
+    },
+    {
+      "bytes": 9306,
+      "path": "ladder.wav",
+      "sha256": "b2c763f18a8580bf9f650113668d0a13b327edef4ea3576faabd520fa9953c48"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "6d5d93d89ee1feb424f04cc788aef40fb8608a373d5e7de10422a8ce92e66c38",
+  "id": "pawfall.sfx-ladder",
+  "license": "CC0-1.0",
+  "name": "ladder",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

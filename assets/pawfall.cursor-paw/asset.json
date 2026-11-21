@@ -1,0 +1,41 @@
+{
+  "author": "PawFall team",
+  "description": "menu cursor paw (2 frames bob)",
+  "files": [
+    {
+      "bytes": 163,
+      "path": "cursor_paw.png",
+      "sha256": "a6238f24974d5f4d5ca9ab9d1b437478cf7048527a1c39c8565679f7f8da867e"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "4394d9ab937eee0bd596e22a196f392bac0737376972179a490358ba70680292",
+  "id": "pawfall.cursor-paw",
+  "license": "CC0-1.0",
+  "name": "cursor_paw",
+  "palette": [
+    "#1a1420",
+    "#b8561a",
+    "#f08a24",
+    "#ff8fa3",
+    "#ffc26a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 10
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

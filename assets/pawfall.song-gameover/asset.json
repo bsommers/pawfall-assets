@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"gameover\": 100 bpm, 2 bars, one-shot sting",
+  "duration": 5.4,
+  "files": [
+    {
+      "bytes": 238184,
+      "path": "gameover.wav",
+      "sha256": "1fa68fe9af40cf1d68649da9cfed8e8e2ea8f6927a4cf9c8293757b560bbd04e"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "125cfeb1b241f8bc80659c6c628b0513011818ec97b1030cc9b29eaf1b5862d9",
+  "id": "pawfall.song-gameover",
+  "license": "CC0-1.0",
+  "name": "gameover",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "music",
+    "pawfall",
+    "procedural",
+    "sting"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

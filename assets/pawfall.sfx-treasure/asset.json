@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"treasure\" (5 voices)",
+  "duration": 0.52,
+  "files": [
+    {
+      "bytes": 596,
+      "path": "treasure.voices.json",
+      "sha256": "f16d1ef1bcbcbd9c09e8def3a853bda0f747f76b966f7ace4c330418dec6c926"
+    },
+    {
+      "bytes": 22976,
+      "path": "treasure.wav",
+      "sha256": "cd042f88579cf83b2ddabb51b2f83a0bfa55651b99acdba4feffdc7713c4b952"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "0aac6f17b7365005b2f9afd45038f76cbcaf847321b44526779f788fba1f97df",
+  "id": "pawfall.sfx-treasure",
+  "license": "CC0-1.0",
+  "name": "treasure",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

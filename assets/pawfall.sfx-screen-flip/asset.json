@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"screen_flip\" (2 voices)",
+  "duration": 0.32,
+  "files": [
+    {
+      "bytes": 313,
+      "path": "screen_flip.voices.json",
+      "sha256": "53865f0ad8d0f39de5308fe02b29e5c83883d50a1cbbabd0053ec33121947350"
+    },
+    {
+      "bytes": 14156,
+      "path": "screen_flip.wav",
+      "sha256": "c6a3c88d0810a78fbc0268e1c6de5b693c273868b375d3ad7202f544891bce26"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "1711182665272ccef3048980f518a4d90b62bbbd2dd8478e03715aeeb0756843",
+  "id": "pawfall.sfx-screen-flip",
+  "license": "CC0-1.0",
+  "name": "screen_flip",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

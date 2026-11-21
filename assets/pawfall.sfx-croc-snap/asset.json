@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"croc_snap\" (4 voices)",
+  "duration": 0.155,
+  "files": [
+    {
+      "bytes": 565,
+      "path": "croc_snap.voices.json",
+      "sha256": "8ba167e3a9366ee993ec7db1c4fb0a13c525e0c47aff90ba480ab39050948fdb"
+    },
+    {
+      "bytes": 6880,
+      "path": "croc_snap.wav",
+      "sha256": "2edec97c675429cd93d0f56c2c7db756460316943d55a35dcf02562f94d6ecd8"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "3a8bd9aa77795a948ce891b5a694c14d36544db3e7435d1581f5356b863de737",
+  "id": "pawfall.sfx-croc-snap",
+  "license": "CC0-1.0",
+  "name": "croc_snap",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

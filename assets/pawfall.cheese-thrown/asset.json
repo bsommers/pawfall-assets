@@ -1,0 +1,41 @@
+{
+  "author": "PawFall team",
+  "description": "cheese chunk Pete tosses (tumbling 2 frames)",
+  "files": [
+    {
+      "bytes": 156,
+      "path": "cheese_thrown.png",
+      "sha256": "58121cdb596e4760b82eb5b59492c49b2e56b615500994c807787a7c4a5c6e0e"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "967d5fab6ccb00f5048435c23005c4e8c76405273e36d47fb716de9099cc397c",
+  "id": "pawfall.cheese-thrown",
+  "license": "CC0-1.0",
+  "name": "cheese_thrown",
+  "palette": [
+    "#1a1420",
+    "#a87a2a",
+    "#d9a41a",
+    "#ffd23a",
+    "#ffe98a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 10
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

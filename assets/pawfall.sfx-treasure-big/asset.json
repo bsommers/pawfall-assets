@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"treasure_big\" (10 voices)",
+  "duration": 1.12,
+  "files": [
+    {
+      "bytes": 1138,
+      "path": "treasure_big.voices.json",
+      "sha256": "760b5a7de68af26aeffb83d107f5fd4149d6660fe5b32f8881bf04d84105ff38"
+    },
+    {
+      "bytes": 49438,
+      "path": "treasure_big.wav",
+      "sha256": "33b955da74696be05a40438286141e87cc153b453c9fb39f769c1512949cc101"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "3c0aa0584d0f622817d827372cfa6807581464bac1982f569b85d31df9ade16b",
+  "id": "pawfall.sfx-treasure-big",
+  "license": "CC0-1.0",
+  "name": "treasure_big",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"menu_select\" (2 voices)",
+  "duration": 0.21,
+  "files": [
+    {
+      "bytes": 194,
+      "path": "menu_select.voices.json",
+      "sha256": "703eb9bdf1204a6838b1de0ebc74119c74971e8ce5386f752cecb64d4329cdfb"
+    },
+    {
+      "bytes": 9306,
+      "path": "menu_select.wav",
+      "sha256": "12f3cf9fa59cb32651f9926a85b83afda33b185442aec217975dd30698840645"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "45ef45bfae1384bbd82ed55128af3edf5ea1f0039a5c40c5c018bde5a6113787",
+  "id": "pawfall.sfx-menu-select",
+  "license": "CC0-1.0",
+  "name": "menu_select",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

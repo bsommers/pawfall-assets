@@ -1,0 +1,42 @@
+{
+  "author": "PawFall team",
+  "description": "far jungle tree-line silhouettes (hazy green), tileable x, 2 variants",
+  "files": [
+    {
+      "bytes": 2711,
+      "path": "bg_trees.png",
+      "sha256": "7448bd319444a0132aac74ef6110eec33eee227dd72dcd413bd6523c4bbf347a"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "e86be566657ae5b7df5557e649d78dc9fa42b3790ca82d1e3cadcb0b22b8644e",
+  "id": "pawfall.bg-trees",
+  "license": "CC0-1.0",
+  "name": "bg_trees",
+  "palette": [
+    "#132828",
+    "#16382f",
+    "#222820",
+    "#2d6850",
+    "#352a2c",
+    "#377b54"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 56,
+    "w": 160
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"tick_low\" (2 voices)",
+  "duration": 0.045,
+  "files": [
+    {
+      "bytes": 266,
+      "path": "tick_low.voices.json",
+      "sha256": "e25d8a28958ee18e12b276039fe26ed1b37df3de084d2e9108e616822e8930a9"
+    },
+    {
+      "bytes": 2030,
+      "path": "tick_low.wav",
+      "sha256": "9196c0ec34715395b8eb5ab9406ee7fdc4d4991c29ee2b1043f4949814ad7254"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "0850db62e15bfb4d4706d448af9a76bf193722bc73dc49a128bdd11fd0413ec0",
+  "id": "pawfall.sfx-tick-low",
+  "license": "CC0-1.0",
+  "name": "tick_low",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

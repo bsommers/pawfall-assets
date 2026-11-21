@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"gameover\" (5 voices)",
+  "duration": 1.12,
+  "files": [
+    {
+      "bytes": 576,
+      "path": "gameover.voices.json",
+      "sha256": "7e33520a278d5047a3b6b039c5c421ad844b0f9ae4adceef42cd2c2fb138d05e"
+    },
+    {
+      "bytes": 49438,
+      "path": "gameover.wav",
+      "sha256": "9855b41d155961189f653e26184b78127d45884709d04173ca586b5b9d100532"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "c9af9c5b3a38797820fdbb3199f7dca00ac28a107e8ee9522f1ce9de051f3f2d",
+  "id": "pawfall.sfx-gameover",
+  "license": "CC0-1.0",
+  "name": "gameover",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

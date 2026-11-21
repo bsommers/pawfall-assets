@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"tunnel_drop\" (2 voices)",
+  "duration": 0.52,
+  "files": [
+    {
+      "bytes": 296,
+      "path": "tunnel_drop.voices.json",
+      "sha256": "59c5ab8de7a72f06fc8e0b621b0a638ed63a1c463a44fc1248d5b1f5370f7f23"
+    },
+    {
+      "bytes": 22976,
+      "path": "tunnel_drop.wav",
+      "sha256": "6d0a6fe406a75bf8e804138b9ad4ec675c71e58eb7942812672a6a1b6c80b66b"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "317d1225669ed08979a17e0da80625083e10b12b4c1a9203326a90f3586e940a",
+  "id": "pawfall.sfx-tunnel-drop",
+  "license": "CC0-1.0",
+  "name": "tunnel_drop",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

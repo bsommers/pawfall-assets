@@ -1,0 +1,45 @@
+{
+  "author": "PawFall team",
+  "description": "jungle path surface strip tile (2 variants), top edge grassy",
+  "files": [
+    {
+      "bytes": 255,
+      "path": "tile_path.png",
+      "sha256": "4dd2f6345ce6b9970078ac2287ba5ff760fa597f16a4aec055e398805b5e520a"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "97129f8a50375511c6f11318173aaf88459cc8d24476bb9f6474fdc36f2f6600",
+  "id": "pawfall.tile-path",
+  "license": "CC0-1.0",
+  "name": "tile_path",
+  "palette": [
+    "#1d7a2c",
+    "#2f9a34",
+    "#3a2416",
+    "#3fae3f",
+    "#7a5232",
+    "#8ad65a",
+    "#a87a2a",
+    "#d9a441",
+    "#f0c868"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

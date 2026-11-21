@@ -1,0 +1,52 @@
+{
+  "author": "PawFall team",
+  "description": "ghost/flat KO pose: X eyes, hat flopped off; frame1 = halo",
+  "files": [
+    {
+      "bytes": 380,
+      "path": "colby_dead.png",
+      "sha256": "66bd4604406a19c0822b51113b6b8f3f55c66db42523b7cf52983fbddf3d7adc"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "e458449b681ad2d87db67735e791f6af8e344fd6a0b742ed1966bce800472632",
+  "id": "pawfall.colby-dead",
+  "license": "CC0-1.0",
+  "name": "colby_dead",
+  "palette": [
+    "#1a1420",
+    "#5a3a1a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#d9a41a",
+    "#e86a7a",
+    "#f08a24",
+    "#ff6a58",
+    "#ff8fa3",
+    "#ffc26a",
+    "#ffd23a",
+    "#fff0d0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

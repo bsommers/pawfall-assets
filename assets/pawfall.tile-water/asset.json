@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "pit water surface, 3 animation frames (scroll ripples)",
+  "files": [
+    {
+      "bytes": 176,
+      "path": "tile_water.png",
+      "sha256": "b61deebbf96ca5465ded96f53789b3dfb42fe9158244ea2c7823062f8b6f8da6"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "0a7dd14dd8fa78f56fe851da6f2da621c6baed9b092c48d2dfc078a8c35ba1fa",
+  "id": "pawfall.tile-water",
+  "license": "CC0-1.0",
+  "name": "tile_water",
+  "palette": [
+    "#1b4a9a",
+    "#2a6fd6",
+    "#7ec8ff",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 10,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"pete_laugh\" (8 voices)",
+  "duration": 0.82,
+  "files": [
+    {
+      "bytes": 1430,
+      "path": "pete_laugh.voices.json",
+      "sha256": "ce5724fedd28b5f58e56b53b056a0fa1e6b37db439875f08744c6db82b29c19c"
+    },
+    {
+      "bytes": 36206,
+      "path": "pete_laugh.wav",
+      "sha256": "c8d2dd56ef421dee8e6f592147ff44d5deeea606a562f025e4b544e64f0af36d"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "3373a4f91948ce96fdff1e069f19c5681e4e5e5cb6fef9bf38220ef47c27dc4d",
+  "id": "pawfall.sfx-pete-laugh",
+  "license": "CC0-1.0",
+  "name": "pete_laugh",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

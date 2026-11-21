@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"quicksand\" (2 voices)",
+  "duration": 0.62,
+  "files": [
+    {
+      "bytes": 374,
+      "path": "quicksand.voices.json",
+      "sha256": "25aca082112fb2939eb4d4f0c109a94a08b6814e66cc6a58eb9666e0c52dac0f"
+    },
+    {
+      "bytes": 27386,
+      "path": "quicksand.wav",
+      "sha256": "d6ebde293c08ee4e95e9ede3c8e8e9033158f0b84187277e9fabae6ccb2e5ef7"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "98b163242fe7d950c2b99a70d3dccfce68bbc0a4b96b9429ea8221ff2e13d7aa",
+  "id": "pawfall.sfx-quicksand",
+  "license": "CC0-1.0",
+  "name": "quicksand",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

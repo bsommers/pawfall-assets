@@ -1,0 +1,20 @@
+{
+  "$schema": "tools/library/schemas/library.schema.json",
+  "assetTypes": [
+    "sprite",
+    "character",
+    "tileset",
+    "sfx",
+    "song",
+    "fx"
+  ],
+  "authors": [
+    "PawFall team"
+  ],
+  "description": "Colby the jungle cat: sprites, tiles, fx, sfx and chiptune songs extracted from PawFall (procedural, deterministic).",
+  "formatVersion": 1,
+  "license": "CC0-1.0",
+  "name": "pawfall-assets",
+  "tags": [],
+  "version": "0.1.0"
+}

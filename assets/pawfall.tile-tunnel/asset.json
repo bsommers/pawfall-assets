@@ -1,0 +1,37 @@
+{
+  "author": "PawFall team",
+  "description": "dark tunnel interior with subtle speckle",
+  "files": [
+    {
+      "bytes": 133,
+      "path": "tile_tunnel.png",
+      "sha256": "b4062cb69e50c2188408611c27c381f3c296b17b004a416f6a94b40487d9960c"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "1506b5879074e0dbcce0abe3b8621e51aeeedf0ce3709de0f4bd89faf851055f",
+  "id": "pawfall.tile-tunnel",
+  "license": "CC0-1.0",
+  "name": "tile_tunnel",
+  "palette": [
+    "#120a12",
+    "#241420"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 16,
+    "w": 16
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

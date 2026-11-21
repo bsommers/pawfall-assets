@@ -1,0 +1,38 @@
+{
+  "author": "PawFall team",
+  "description": "blocky sun/moon disc; renderer tints it via skyFor().sun",
+  "files": [
+    {
+      "bytes": 195,
+      "path": "sun.png",
+      "sha256": "a1dd26dd7bb24443244e1d7efa1b59564c1efa62826c7ada5342c534d75acebb"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "47248e93bfebcd53ff9e8115a4f401ea32affab27cad34036c03ee24c5913d0e",
+  "id": "pawfall.sun",
+  "license": "CC0-1.0",
+  "name": "sun",
+  "palette": [
+    "#c2cadf",
+    "#d8e0f0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 20,
+    "w": 20
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

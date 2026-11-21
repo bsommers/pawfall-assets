@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "running/landing dust puff",
+  "files": [
+    {
+      "bytes": 160,
+      "path": "fx_dust.png",
+      "sha256": "15c6748b2916c2e6dfe9e78c1ba7871cde4bde66bdada047a151e781570d3168"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "cfbbe0ffc4a9ad6a802028f763e3c9a479459e2440abe72c4e9929583a1dbd95",
+  "id": "pawfall.fx-dust",
+  "license": "CC0-1.0",
+  "name": "fx_dust",
+  "palette": [
+    "#d9a441",
+    "#f0c868",
+    "#fff0d0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 6,
+    "w": 8
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

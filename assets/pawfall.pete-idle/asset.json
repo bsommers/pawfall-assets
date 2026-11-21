@@ -1,0 +1,53 @@
+{
+  "author": "PawFall team",
+  "description": "Perring Parkway Pete: fat grey rat, pinstripe suit, black shades, gold tooth, cigar-free (cheese-stick in mouth); smug stance",
+  "files": [
+    {
+      "bytes": 797,
+      "path": "pete_idle.png",
+      "sha256": "85f2aab22bf8817dcf443c836ad3249622fd84f2caa26ac439776a55f24c0fd4"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "bd4859f8811dcbe6bffb3a32f3c864db7d17de327327640bd235111cadb26d2f",
+  "id": "pawfall.pete-idle",
+  "license": "CC0-1.0",
+  "name": "pete_idle",
+  "palette": [
+    "#0a0710",
+    "#1a1420",
+    "#2a2f55",
+    "#3a3450",
+    "#444c85",
+    "#4a4468",
+    "#4f4b5e",
+    "#7a7688",
+    "#8d96d6",
+    "#9a96a8",
+    "#a87a2a",
+    "#d9a41a",
+    "#e8a0b0",
+    "#ff8fa3",
+    "#ffd23a",
+    "#fff0a0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 48,
+    "w": 40
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

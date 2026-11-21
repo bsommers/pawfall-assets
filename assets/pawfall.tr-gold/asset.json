@@ -1,0 +1,41 @@
+{
+  "author": "PawFall team",
+  "description": "gold bar stack + shimmer",
+  "files": [
+    {
+      "bytes": 221,
+      "path": "tr_gold.png",
+      "sha256": "1a68ecf932899c8322d6593fb6401d09217a59231cd517f3098d0e66cc604591"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "304d106d59eb7b7d014c9d1ed6aff28681cb323be20596da89685afd054f9f4d",
+  "id": "pawfall.tr-gold",
+  "license": "CC0-1.0",
+  "name": "tr_gold",
+  "palette": [
+    "#1a1420",
+    "#d9a41a",
+    "#ffd23a",
+    "#fff0a0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 12,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

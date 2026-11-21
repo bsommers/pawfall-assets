@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://game-factory/schemas/asset.schema.json",
+  "title": "Asset descriptor (assets/<id>/asset.json)",
+  "type": "object",
+  "required": ["id", "type", "version", "license", "author", "tags", "files", "hash"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]{0,95}$" },
+    "type": { "enum": ["sprite", "character", "tileset", "sfx", "song", "fx", "font", "level", "doc", "code-kit"] },
+    "name": { "type": "string", "maxLength": 120 },
+    "description": { "type": "string", "maxLength": 1000 },
+    "version": { "type": "string", "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(-[0-9A-Za-z.-]+)?(\\+[0-9A-Za-z.-]+)?$" },
+    "tags": { "type": "array", "maxItems": 64, "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9:._-]{0,63}$" } },
+    "license": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "author": { "type": "string", "minLength": 1, "maxLength": 120 },
+    "provenance": {
+      "type": "object", "additionalProperties": false,
+      "properties": { "source": { "type": "string", "maxLength": 300 }, "generator": { "type": "string", "maxLength": 200 }, "game": { "type": "string", "maxLength": 120 }, "note": { "type": "string", "maxLength": 500 } }
+    },
+    "format": { "type": "string", "maxLength": 40 },
+    "palette": { "type": "array", "maxItems": 256, "items": { "type": "string", "pattern": "^#[0-9a-fA-F]{6}$" } },
+    "size": {
+      "type": "object", "required": ["w", "h"], "additionalProperties": false,
+      "properties": { "w": { "type": "integer", "minimum": 1, "maximum": 65536 }, "h": { "type": "integer", "minimum": 1, "maximum": 65536 }, "frames": { "type": "integer", "minimum": 1, "maximum": 4096 } }
+    },
+    "duration": { "type": "number", "minimum": 0, "maximum": 36000 },
+    "files": {
+      "type": "array", "minItems": 1, "maxItems": 256,
+      "items": {
+        "type": "object", "required": ["path", "sha256", "bytes"], "additionalProperties": false,
+        "properties": { "path": { "type": "string", "minLength": 1, "maxLength": 240 }, "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }, "bytes": { "type": "integer", "minimum": 0 } }
+      }
+    },
+    "dependencies": {
+      "type": "array", "maxItems": 64,
+      "items": {
+        "type": "object", "required": ["id"], "additionalProperties": false,
+        "properties": { "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]{0,95}$" }, "version": { "type": "string", "maxLength": 40 }, "library": { "type": "string", "maxLength": 300 } }
+      }
+    },
+    "preview": { "type": "string", "maxLength": 240 },
+    "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+  }
+}

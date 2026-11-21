@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "night firefly glow dot (2 frames)",
+  "files": [
+    {
+      "bytes": 94,
+      "path": "firefly.png",
+      "sha256": "b9b69a46d74dcf5bbe79a0247e9b891790a250087618e984516bbb00998d275a"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "4ef48edfd77d6bf4514395e8549555c1c4aae6d03fbf68210adb3966eea818be",
+  "id": "pawfall.firefly",
+  "license": "CC0-1.0",
+  "name": "firefly",
+  "palette": [
+    "#8ad65a",
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 3,
+    "w": 3
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

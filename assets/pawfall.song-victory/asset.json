@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"victory\": 144 bpm, 4 bars, one-shot sting",
+  "duration": 7.27,
+  "files": [
+    {
+      "bytes": 320504,
+      "path": "victory.wav",
+      "sha256": "a56cab35aec2e5493051e39a7507690d894acfc3e60880c18c80a62c8ff79005"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "d936224b49367bd7d7685bb4373bfdb64dfa7bd80d549dc413c755043bd6e0a5",
+  "id": "pawfall.song-victory",
+  "license": "CC0-1.0",
+  "name": "victory",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "music",
+    "pawfall",
+    "procedural",
+    "sting"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "dizzy stars orbiting",
+  "files": [
+    {
+      "bytes": 148,
+      "path": "fx_stars.png",
+      "sha256": "93a218e4f65f4e8ad450f16fed4178f15011d8fa872d10446acc3cfb85658145"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "36760446b9366a4b70d3054242fe37c46c25c71bdfbcd0c78674c25e79b6e4e1",
+  "id": "pawfall.fx-stars",
+  "license": "CC0-1.0",
+  "name": "fx_stars",
+  "palette": [
+    "#d9a41a",
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 6,
+    "w": 14
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

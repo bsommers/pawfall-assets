@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"brick_bump\" (2 voices)",
+  "duration": 0.12,
+  "files": [
+    {
+      "bytes": 274,
+      "path": "brick_bump.voices.json",
+      "sha256": "a1ce1723ed0fa8c88136e508009c675c3d32e5fc30dca7fa2c5c2d2af5590a7b"
+    },
+    {
+      "bytes": 5336,
+      "path": "brick_bump.wav",
+      "sha256": "0a5f7c1e5858ae56fd1ee3ed2ef2ba699a797da59424899e034e55eb9b9b588b"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "70d42ffca437ac7cd0ba5e38e3c3f013f31a61b579b7549a2bfd795e11f9e1c3",
+  "id": "pawfall.sfx-brick-bump",
+  "license": "CC0-1.0",
+  "name": "brick_bump",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

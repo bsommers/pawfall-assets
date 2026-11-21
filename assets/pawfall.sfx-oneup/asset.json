@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"oneup\" (7 voices)",
+  "duration": 0.68,
+  "files": [
+    {
+      "bytes": 805,
+      "path": "oneup.voices.json",
+      "sha256": "2eb57c38eea7bcdd11dc9101e31e0cb736dca329c4590d35796678fc65e22e14"
+    },
+    {
+      "bytes": 30032,
+      "path": "oneup.wav",
+      "sha256": "3c3490871b1ee12e8f59efe84f0d2414bb8176edfd697caa34edf226611faf6e"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "61ee5cb7c5c012cb854d9bacdc44e76b7167b38043be24988e144d9d288730f2",
+  "id": "pawfall.sfx-oneup",
+  "license": "CC0-1.0",
+  "name": "oneup",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "tunnel brick wall tile",
+  "files": [
+    {
+      "bytes": 147,
+      "path": "tile_brick.png",
+      "sha256": "e81f7190abd408df01669b7bd4aba8244bc4b8a205ef172f791dbe99936d9409"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "1030880c8f671de71756449820e1c246573de46f6d180f34132d92b572fa84c9",
+  "id": "pawfall.tile-brick",
+  "license": "CC0-1.0",
+  "name": "tile_brick",
+  "palette": [
+    "#2a1810",
+    "#6e3319",
+    "#a0522d",
+    "#a95b34",
+    "#c4744a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 8,
+    "w": 16
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

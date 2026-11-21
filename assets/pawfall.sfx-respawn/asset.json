@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"respawn\" (3 voices)",
+  "duration": 0.3,
+  "files": [
+    {
+      "bytes": 334,
+      "path": "respawn.voices.json",
+      "sha256": "e49492822b70f978c2905dc7af3b121aa94f26ce61af026412c8e7003673f6e8"
+    },
+    {
+      "bytes": 13276,
+      "path": "respawn.wav",
+      "sha256": "8f6f12a25fa17256333464e15ede582c35d50d037b63770cb0df1d0664bff70f"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "d5642a7e73a5cefaff147dca0b5cc03d29a7cf7ec2ceeaee2a3dbc40a0fa0cf8",
+  "id": "pawfall.sfx-respawn",
+  "license": "CC0-1.0",
+  "name": "respawn",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

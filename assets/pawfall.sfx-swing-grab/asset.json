@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"swing_grab\" (2 voices)",
+  "duration": 0.22,
+  "files": [
+    {
+      "bytes": 287,
+      "path": "swing_grab.voices.json",
+      "sha256": "63b9f72ef2c44e15778d5177aa9c3494f6825a5f1e205e6fc74fff998931c893"
+    },
+    {
+      "bytes": 9746,
+      "path": "swing_grab.wav",
+      "sha256": "cc42de353f40b268a81aee1651f8b83f30a0e05cac57f20ee4a8ef64259e92f9"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "1acfb92767923f911b834550cbafff464c8de09bc06cc70b9250eee3979cc484",
+  "id": "pawfall.sfx-swing-grab",
+  "license": "CC0-1.0",
+  "name": "swing_grab",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "round touch-control button base (frame1 = pressed), no glyph",
+  "files": [
+    {
+      "bytes": 361,
+      "path": "touch_btn.png",
+      "sha256": "060c77954bcdcadf6dcb0107d154b5253a2039dbe872970cbf632ac142d91661"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "f83c51768cb20ff03dcee95a399f79008796fd4c8f430f102d556980f1afe7ac",
+  "id": "pawfall.touch-btn",
+  "license": "CC0-1.0",
+  "name": "touch_btn",
+  "palette": [
+    "#1a1420",
+    "#1f1917",
+    "#5c564e",
+    "#8d7a3a",
+    "#d9a41a",
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 32,
+    "w": 32
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

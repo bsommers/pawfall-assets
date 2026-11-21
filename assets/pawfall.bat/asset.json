@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "tunnel ambience bat flapping (harmless decor)",
+  "files": [
+    {
+      "bytes": 151,
+      "path": "bat.png",
+      "sha256": "a9091342be5d44cdc366afaab1afc2c02a2311044a370f7619602fb754a69e60"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "58cc81200804b279135eac81766fed46571e7147cc0d6583143d5433ecd43d65",
+  "id": "pawfall.bat",
+  "license": "CC0-1.0",
+  "name": "bat",
+  "palette": [
+    "#4f4b5e",
+    "#7a7688",
+    "#ff4a3a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 8,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

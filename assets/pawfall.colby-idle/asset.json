@@ -1,0 +1,53 @@
+{
+  "author": "PawFall team",
+  "description": "Colby standing (tail sway / blink), pith helmet, red scarf",
+  "files": [
+    {
+      "bytes": 400,
+      "path": "colby_idle.png",
+      "sha256": "6aa009577e4ed32a85f15e8ebe0ead91db8333cb196ff691e9d1cc99ff83fd83"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "ba40d21eb1cd16d8c5a03368e7f7c4ca14e598f2fbb07aa8d076b14e6c9f93cb",
+  "id": "pawfall.colby-idle",
+  "license": "CC0-1.0",
+  "name": "colby_idle",
+  "palette": [
+    "#1a1420",
+    "#1f4a12",
+    "#5a3a1a",
+    "#7bd44a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#e8d68a",
+    "#f08a24",
+    "#ff6a58",
+    "#ff8fa3",
+    "#ffc26a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

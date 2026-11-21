@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"tar_glug\" (2 voices)",
+  "duration": 0.37,
+  "files": [
+    {
+      "bytes": 340,
+      "path": "tar_glug.voices.json",
+      "sha256": "3dcf8a268128d34e91bb31b00a64a5798d0c31e1e9ae2d7434444f5d1e47263b"
+    },
+    {
+      "bytes": 16362,
+      "path": "tar_glug.wav",
+      "sha256": "32f28afd2997b0641d834434a8c0c1d93aec80be3d597e287ecbcb2d70321b10"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "e8cdbca7adf6f1de30d70b4fec7deebdbf7a364ab01f1988869c7d1e3eb3046c",
+  "id": "pawfall.sfx-tar-glug",
+  "license": "CC0-1.0",
+  "name": "tar_glug",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

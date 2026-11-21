@@ -1,0 +1,53 @@
+{
+  "author": "PawFall team",
+  "description": "cheering, paws up, helmet tossed (loop)",
+  "files": [
+    {
+      "bytes": 467,
+      "path": "colby_win.png",
+      "sha256": "be296b8e015e19e6a5115a23073cb0389651ad44a08c40384e9f903f5ef558c8"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "64a8d9f4e7a50193aacda7e19c86005abdc0c4db14ed7fcf6f06a734583e1d83",
+  "id": "pawfall.colby-win",
+  "license": "CC0-1.0",
+  "name": "colby_win",
+  "palette": [
+    "#1a1420",
+    "#1f4a12",
+    "#5a3a1a",
+    "#7bd44a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#e86a7a",
+    "#f08a24",
+    "#ff6a58",
+    "#ff8fa3",
+    "#ffc26a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

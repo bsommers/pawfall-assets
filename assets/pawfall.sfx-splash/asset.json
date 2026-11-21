@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"splash\" (6 voices)",
+  "duration": 0.47,
+  "files": [
+    {
+      "bytes": 772,
+      "path": "splash.voices.json",
+      "sha256": "f0f5663046c8339de999476ae7ce7374b40bf9f8416d10865e7377eacb4d8066"
+    },
+    {
+      "bytes": 20772,
+      "path": "splash.wav",
+      "sha256": "f5f082f21bbedfb152a65b9803754534f280cef0f516589fb44235805183248a"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "f2eeb265e13aa3531bdf1537bafc98309c2864a2270165f66e0f2452d100bf99",
+  "id": "pawfall.sfx-splash",
+  "license": "CC0-1.0",
+  "name": "splash",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

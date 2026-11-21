@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "ground bush/fern decor behind the player, 3 variants",
+  "files": [
+    {
+      "bytes": 407,
+      "path": "bush.png",
+      "sha256": "d76bbcbd3aaa1f174a6a3295314e4159c1d0f00d09681f2a22eff8bb440cf82a"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "a810c7d2d26a40bb6c7db99fe053a31ef862c3eff486c996c68b9cbd4ebfdf12",
+  "id": "pawfall.bush",
+  "license": "CC0-1.0",
+  "name": "bush",
+  "palette": [
+    "#06240f",
+    "#0b3d1a",
+    "#1d7a2c",
+    "#2f9a34",
+    "#3fae3f",
+    "#ff4a3a",
+    "#ffd23a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 14,
+    "w": 24
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

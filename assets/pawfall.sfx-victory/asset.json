@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"victory\" (11 voices)",
+  "duration": 2.04,
+  "files": [
+    {
+      "bytes": 1727,
+      "path": "victory.voices.json",
+      "sha256": "3e1ccd87a522da16ce42aa01e1e566117c59fa46fbf13055ce93fe7fa3df90ff"
+    },
+    {
+      "bytes": 90008,
+      "path": "victory.wav",
+      "sha256": "b79886d077b3e66ed6dbc024ca54e4d6bf598f4afcad414a88e8501d45e7d62c"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "50a72256cc918f9d6de748a710f85814e83c4ba794113956cf4168f3578cb7be",
+  "id": "pawfall.sfx-victory",
+  "license": "CC0-1.0",
+  "name": "victory",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

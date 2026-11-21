@@ -1,0 +1,18 @@
+name: validate-library
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate library (schema, hashes, paths, dependencies)
+        run: node tools/library/validate-cli.mjs validate .
+      - name: INDEX is up to date
+        run: node tools/library/validate-cli.mjs index . --check

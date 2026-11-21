@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"step\" (2 voices)",
+  "duration": 0.07,
+  "files": [
+    {
+      "bytes": 282,
+      "path": "step.voices.json",
+      "sha256": "94ae6a1f346dc83d56af6a147179c74f721a450cf186e08e752370f2dee05a96"
+    },
+    {
+      "bytes": 3132,
+      "path": "step.wav",
+      "sha256": "ca676d5f8823d76797c4ffe1cd5924b2ea1e0134ae52b64b92edb7a94ccfc005"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "a87239c38d7cb1b1ffeaadb3d00f4e66a70e7450eee0ff6a8df248fef27becd7",
+  "id": "pawfall.sfx-step",
+  "license": "CC0-1.0",
+  "name": "step",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

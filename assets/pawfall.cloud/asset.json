@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "blocky cloud, 3 variants",
+  "files": [
+    {
+      "bytes": 361,
+      "path": "cloud.png",
+      "sha256": "2d7fec51fb92ef04452302f3d1c9ae423617dc2655ad9d3c3141157162fd4ded"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "22506002b527df69ea75b228243d747b0ef3fac4fa372da3f63f1f4b806503ac",
+  "id": "pawfall.cloud",
+  "license": "CC0-1.0",
+  "name": "cloud",
+  "palette": [
+    "#bec6dc",
+    "#d8e0f0",
+    "#ecebe8",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 14,
+    "w": 40
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

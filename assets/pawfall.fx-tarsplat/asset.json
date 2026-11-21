@@ -1,0 +1,38 @@
+{
+  "author": "PawFall team",
+  "description": "black tar blob splat",
+  "files": [
+    {
+      "bytes": 201,
+      "path": "fx_tarsplat.png",
+      "sha256": "c851908b7d2dd204e8015abb54dcb28dd26273a1a0f5acb3424d796d24d4e792"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "1643bd94815cf2ccac0f4bfdab02a7e53bd1c0ef65b64b9d6f67aa36315dabfe",
+  "id": "pawfall.fx-tarsplat",
+  "license": "CC0-1.0",
+  "name": "fx_tarsplat",
+  "palette": [
+    "#1a1420",
+    "#3a2f48"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 12,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

@@ -1,0 +1,38 @@
+{
+  "author": "PawFall team",
+  "description": "treasure sparkle burst",
+  "files": [
+    {
+      "bytes": 152,
+      "path": "fx_sparkle.png",
+      "sha256": "9b601dd4d524ff55432b3d146e2d0055dec96fc59c9d6b6726565c1b68f1bde2"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "f9460351c6dfd737ed8d4fb9122ea976e53dd70895a1fe6f12430346919cc977",
+  "id": "pawfall.fx-sparkle",
+  "license": "CC0-1.0",
+  "name": "fx_sparkle",
+  "palette": [
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 8,
+    "w": 8
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

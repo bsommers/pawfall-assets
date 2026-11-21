@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "distant blue-purple jungle mountains silhouette, tileable x",
+  "files": [
+    {
+      "bytes": 1409,
+      "path": "bg_mountains.png",
+      "sha256": "894cf4ce07e26d0ccdb066ecd6bbe12bbadf7d28f47505078cee55450d2178ee"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "0fd9fe547aa1ca7555866a6f41fb0730e451827994c81dbbf17f7d25dd3dc692",
+  "id": "pawfall.bg-mountains",
+  "license": "CC0-1.0",
+  "name": "bg_mountains",
+  "palette": [
+    "#1d2b3d",
+    "#2a2f55",
+    "#373e6d",
+    "#444c85",
+    "#656da9"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 48,
+    "w": 160
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

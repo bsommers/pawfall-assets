@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"log_hit\" (3 voices)",
+  "duration": 0.2,
+  "files": [
+    {
+      "bytes": 458,
+      "path": "log_hit.voices.json",
+      "sha256": "0dbfd0d716cb250441df92327ec5232c467725495186d6ef5f00cb9d0835565d"
+    },
+    {
+      "bytes": 8864,
+      "path": "log_hit.wav",
+      "sha256": "93e05a9e9af50573afe5f9765cf8ab3b8b72c57caef2953e5d1be18135754de9"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "ad3300d71b52be1d24e1e3ea79efbd64cabf18476dd1099eef4170846cc6628a",
+  "id": "pawfall.sfx-log-hit",
+  "license": "CC0-1.0",
+  "name": "log_hit",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

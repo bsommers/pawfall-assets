@@ -1,0 +1,53 @@
+{
+  "author": "PawFall team",
+  "description": "run cycle, 6 frames, tail streaming",
+  "files": [
+    {
+      "bytes": 609,
+      "path": "colby_run.png",
+      "sha256": "03fe467a6101d2b5283aecb71eeb291cc424017de9c4317454cb9ceec4ff4c43"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "8f6f17525f5201c58eef5cffd144b5f02fa5504e3880dd7cb8c68d2af2995b8e",
+  "id": "pawfall.colby-run",
+  "license": "CC0-1.0",
+  "name": "colby_run",
+  "palette": [
+    "#1a1420",
+    "#1f4a12",
+    "#5a3a1a",
+    "#7bd44a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#e8d68a",
+    "#f08a24",
+    "#ff6a58",
+    "#ff8fa3",
+    "#ffc26a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 6,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

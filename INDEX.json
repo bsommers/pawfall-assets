@@ -1,0 +1,3038 @@
+{
+  "assets": [
+    {
+      "author": "PawFall team",
+      "bytes": 151,
+      "description": "tunnel ambience bat flapping (harmless decor)",
+      "descriptor": "assets/pawfall.bat/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "58cc81200804b279135eac81766fed46571e7147cc0d6583143d5433ecd43d65",
+      "id": "pawfall.bat",
+      "license": "CC0-1.0",
+      "name": "bat",
+      "palette": [
+        "#4f4b5e",
+        "#7a7688",
+        "#ff4a3a"
+      ],
+      "preview": "assets/pawfall.bat/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 8,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1409,
+      "description": "distant blue-purple jungle mountains silhouette, tileable x",
+      "descriptor": "assets/pawfall.bg-mountains/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "0fd9fe547aa1ca7555866a6f41fb0730e451827994c81dbbf17f7d25dd3dc692",
+      "id": "pawfall.bg-mountains",
+      "license": "CC0-1.0",
+      "name": "bg_mountains",
+      "palette": [
+        "#1d2b3d",
+        "#2a2f55",
+        "#373e6d",
+        "#444c85",
+        "#656da9"
+      ],
+      "preview": "assets/pawfall.bg-mountains/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 48,
+        "w": 160
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 2711,
+      "description": "far jungle tree-line silhouettes (hazy green), tileable x, 2 variants",
+      "descriptor": "assets/pawfall.bg-trees/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "e86be566657ae5b7df5557e649d78dc9fa42b3790ca82d1e3cadcb0b22b8644e",
+      "id": "pawfall.bg-trees",
+      "license": "CC0-1.0",
+      "name": "bg_trees",
+      "palette": [
+        "#132828",
+        "#16382f",
+        "#222820",
+        "#2d6850",
+        "#352a2c",
+        "#377b54"
+      ],
+      "preview": "assets/pawfall.bg-trees/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 56,
+        "w": 160
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 407,
+      "description": "ground bush/fern decor behind the player, 3 variants",
+      "descriptor": "assets/pawfall.bush/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "a810c7d2d26a40bb6c7db99fe053a31ef862c3eff486c996c68b9cbd4ebfdf12",
+      "id": "pawfall.bush",
+      "license": "CC0-1.0",
+      "name": "bush",
+      "palette": [
+        "#06240f",
+        "#0b3d1a",
+        "#1d7a2c",
+        "#2f9a34",
+        "#3fae3f",
+        "#ff4a3a",
+        "#ffd23a"
+      ],
+      "preview": "assets/pawfall.bush/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 14,
+        "w": 24
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1924,
+      "description": "leaf canopy chunk, 3 variants, tileable horizontally at the left/right edges; overhanging blobs underneath; anchor top-left",
+      "descriptor": "assets/pawfall.canopy/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "ab58fde4bc278c6da27e4fd898d505471d5e708a447a48d9be6fdd7a2405e91b",
+      "id": "pawfall.canopy",
+      "license": "CC0-1.0",
+      "name": "canopy",
+      "palette": [
+        "#06240f",
+        "#0b3d1a",
+        "#1d7a2c",
+        "#2f9a34",
+        "#3fae3f",
+        "#8ad65a"
+      ],
+      "preview": "assets/pawfall.canopy/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 36,
+        "w": 64
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1113,
+      "description": "darker, smaller far canopy for parallax behind (tileable x)",
+      "descriptor": "assets/pawfall.canopy-far/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "06ea80e51717ddf03c0efb7a612cf9435f8401914d526b6d86541f0aaa377a0b",
+      "id": "pawfall.canopy-far",
+      "license": "CC0-1.0",
+      "name": "canopy_far",
+      "palette": [
+        "#06240f",
+        "#093416",
+        "#155c22",
+        "#217127",
+        "#2b7e2e",
+        "#5c9840"
+      ],
+      "preview": "assets/pawfall.canopy-far/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 28,
+        "w": 64
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 318,
+      "description": "Pete's rolling cheese wheel (round, holes, rotates 4 frames)",
+      "descriptor": "assets/pawfall.cheese/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "0c915e5f79cc0f51fec0e079ed87326c3efcd659cf91aebe540f34e6364608bb",
+      "id": "pawfall.cheese",
+      "license": "CC0-1.0",
+      "name": "cheese",
+      "palette": [
+        "#1a1420",
+        "#a87a2a",
+        "#d9a41a",
+        "#ffd23a",
+        "#ffe98a"
+      ],
+      "preview": "assets/pawfall.cheese/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 14,
+        "w": 14
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 156,
+      "description": "cheese chunk Pete tosses (tumbling 2 frames)",
+      "descriptor": "assets/pawfall.cheese-thrown/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "967d5fab6ccb00f5048435c23005c4e8c76405273e36d47fb716de9099cc397c",
+      "id": "pawfall.cheese-thrown",
+      "license": "CC0-1.0",
+      "name": "cheese_thrown",
+      "palette": [
+        "#1a1420",
+        "#a87a2a",
+        "#d9a41a",
+        "#ffd23a",
+        "#ffe98a"
+      ],
+      "preview": "assets/pawfall.cheese-thrown/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 10
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 361,
+      "description": "blocky cloud, 3 variants",
+      "descriptor": "assets/pawfall.cloud/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "22506002b527df69ea75b228243d747b0ef3fac4fa372da3f63f1f4b806503ac",
+      "id": "pawfall.cloud",
+      "license": "CC0-1.0",
+      "name": "cloud",
+      "palette": [
+        "#bec6dc",
+        "#d8e0f0",
+        "#ecebe8",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.cloud/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 14,
+        "w": 40
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 335,
+      "description": "ladder climb, seen from behind/side, alternate paws",
+      "descriptor": "assets/pawfall.colby-climb/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "268edff99c1a420400fb7322c0cc8ed8c306ce0e02ffea27b06ddb7f46b5b266",
+      "id": "pawfall.colby-climb",
+      "license": "CC0-1.0",
+      "name": "colby_climb",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e8d68a",
+        "#f08a24",
+        "#ffc26a",
+        "#fff0d0"
+      ],
+      "preview": "assets/pawfall.colby-climb/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 380,
+      "description": "ghost/flat KO pose: X eyes, hat flopped off; frame1 = halo",
+      "descriptor": "assets/pawfall.colby-dead/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "e458449b681ad2d87db67735e791f6af8e344fd6a0b742ed1966bce800472632",
+      "id": "pawfall.colby-dead",
+      "license": "CC0-1.0",
+      "name": "colby_dead",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#d9a41a",
+        "#e86a7a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#ffd23a",
+        "#fff0d0"
+      ],
+      "preview": "assets/pawfall.colby-dead/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 432,
+      "description": "stunned/knocked back, dizzy eyes",
+      "descriptor": "assets/pawfall.colby-hurt/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "4082750c25f244c60f37e2befb6a3ba3badcc514b3c244495e8c0dc90fc3e824",
+      "id": "pawfall.colby-hurt",
+      "license": "CC0-1.0",
+      "name": "colby_hurt",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e86a7a",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#ffd23a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-hurt/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 400,
+      "description": "Colby standing (tail sway / blink), pith helmet, red scarf",
+      "descriptor": "assets/pawfall.colby-idle/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "ba40d21eb1cd16d8c5a03368e7f7c4ca14e598f2fbb07aa8d076b14e6c9f93cb",
+      "id": "pawfall.colby-idle",
+      "license": "CC0-1.0",
+      "name": "colby_idle",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#5a3a1a",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-idle/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 547,
+      "description": "rise / peak (tucked) / fall (paws out)",
+      "descriptor": "assets/pawfall.colby-jump/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "2d9138786e174902ff81677faed08525af9e19c255b0252ace056f0d5fdb118c",
+      "id": "pawfall.colby-jump",
+      "license": "CC0-1.0",
+      "name": "colby_jump",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#5a3a1a",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e86a7a",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-jump/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 144,
+      "description": "tiny Colby head icon for the HUD lives counter",
+      "descriptor": "assets/pawfall.colby-life/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "8ae66f657a9663fd193410e90a417256e5ebfc4fd02134b17153913a6d194cb8",
+      "id": "pawfall.colby-life",
+      "license": "CC0-1.0",
+      "name": "colby_life",
+      "palette": [
+        "#1a1420",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#c9b26a",
+        "#d63a2f",
+        "#f08a24",
+        "#ffc26a",
+        "#fff0d0"
+      ],
+      "preview": "assets/pawfall.colby-life/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 8,
+        "w": 8
+      },
+      "tags": [
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 609,
+      "description": "run cycle, 6 frames, tail streaming",
+      "descriptor": "assets/pawfall.colby-run/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "8f6f17525f5201c58eef5cffd144b5f02fa5504e3880dd7cb8c68d2af2995b8e",
+      "id": "pawfall.colby-run",
+      "license": "CC0-1.0",
+      "name": "colby_run",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#5a3a1a",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-run/preview.png",
+      "size": {
+        "frames": 6,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 431,
+      "description": "sinking: arms up, wide eyes; frames get progressively lower (cut at bottom by a pit surface drawn over)",
+      "descriptor": "assets/pawfall.colby-sink/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "5874509f213afcf4405349ed7b8d39f8995b6fb2018b09989fff57a09a4998b6",
+      "id": "pawfall.colby-sink",
+      "license": "CC0-1.0",
+      "name": "colby_sink",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e86a7a",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-sink/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 430,
+      "description": "hanging on a vine: both paws up top (frame0 straight, frame1 legs kicked)",
+      "descriptor": "assets/pawfall.colby-swing/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "f5c485295d20e020d680b113713a6de85d3223116d276d903cc558a0e3cc9ed7",
+      "id": "pawfall.colby-swing",
+      "license": "CC0-1.0",
+      "name": "colby_swing",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#5a3a1a",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e8d68a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-swing/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 467,
+      "description": "cheering, paws up, helmet tossed (loop)",
+      "descriptor": "assets/pawfall.colby-win/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "64a8d9f4e7a50193aacda7e19c86005abdc0c4db14ed7fcf6f06a734583e1d83",
+      "id": "pawfall.colby-win",
+      "license": "CC0-1.0",
+      "name": "colby_win",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#5a3a1a",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#e86a7a",
+        "#f08a24",
+        "#ff6a58",
+        "#ff8fa3",
+        "#ffc26a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.colby-win/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 24,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 231,
+      "description": "crocodile head+snout above water: frame0 mouth CLOSED (flat top, safe to stand), frame1 mouth OPEN (teeth, deadly). Anchor bottom-centre at water line",
+      "descriptor": "assets/pawfall.croc/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "dca9c05daa7eb5481c9fd1cb10b929c9aa9d97ad5769f7233d42de9676eabaf0",
+      "id": "pawfall.croc",
+      "license": "CC0-1.0",
+      "name": "croc",
+      "palette": [
+        "#1a1420",
+        "#2f5a28",
+        "#4f8a3a",
+        "#b8425a",
+        "#e86a7a",
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.croc/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 12,
+        "w": 24
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 163,
+      "description": "menu cursor paw (2 frames bob)",
+      "descriptor": "assets/pawfall.cursor-paw/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "4394d9ab937eee0bd596e22a196f392bac0737376972179a490358ba70680292",
+      "id": "pawfall.cursor-paw",
+      "license": "CC0-1.0",
+      "name": "cursor_paw",
+      "palette": [
+        "#1a1420",
+        "#b8561a",
+        "#f08a24",
+        "#ff8fa3",
+        "#ffc26a"
+      ],
+      "preview": "assets/pawfall.cursor-paw/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 10
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1251,
+      "description": "foreground jungle leaf/fern silhouettes drawn IN FRONT of the player at screen edges for 2.xD depth (dark green, 3 variants)",
+      "descriptor": "assets/pawfall.fg-leaf/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "72f52a7d3fc6b2d492fc0eaec7f25b3c8d65e358d8a18de02dc86fbebf2c6193",
+      "id": "pawfall.fg-leaf",
+      "license": "CC0-1.0",
+      "name": "fg_leaf",
+      "palette": [
+        "#06240f",
+        "#0b3d1a"
+      ],
+      "preview": "assets/pawfall.fg-leaf/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 72,
+        "w": 40
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 261,
+      "description": "campfire/flame flicker, 3 frames, over a few logs",
+      "descriptor": "assets/pawfall.fire/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "a7b718bda27c6f6c2b39d44edf56e4e21456269f272b9b0799b1cd12f7a90b6b",
+      "id": "pawfall.fire",
+      "license": "CC0-1.0",
+      "name": "fire",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a5a2a",
+        "#c48a4a",
+        "#d63a2f",
+        "#ff7a1a",
+        "#ffd23a"
+      ],
+      "preview": "assets/pawfall.fire/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 16,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 94,
+      "description": "night firefly glow dot (2 frames)",
+      "descriptor": "assets/pawfall.firefly/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "4ef48edfd77d6bf4514395e8549555c1c4aae6d03fbf68210adb3966eea818be",
+      "id": "pawfall.firefly",
+      "license": "CC0-1.0",
+      "name": "firefly",
+      "palette": [
+        "#8ad65a",
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.firefly/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 3,
+        "w": 3
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 108,
+      "description": "rising bubble",
+      "descriptor": "assets/pawfall.fx-bubble/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "84f7637480abc72453cc9c386a7d33030fede10e9f6d8c032fb3b4eddeee8d09",
+      "id": "pawfall.fx-bubble",
+      "license": "CC0-1.0",
+      "name": "fx_bubble",
+      "palette": [
+        "#2a6fd6",
+        "#7ec8ff",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.fx-bubble/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 4,
+        "w": 4
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 160,
+      "description": "running/landing dust puff",
+      "descriptor": "assets/pawfall.fx-dust/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "cfbbe0ffc4a9ad6a802028f763e3c9a479459e2440abe72c4e9929583a1dbd95",
+      "id": "pawfall.fx-dust",
+      "license": "CC0-1.0",
+      "name": "fx_dust",
+      "palette": [
+        "#d9a441",
+        "#f0c868",
+        "#fff0d0"
+      ],
+      "preview": "assets/pawfall.fx-dust/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 6,
+        "w": 8
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 149,
+      "description": "falling leaf particle (4 rotation frames)",
+      "descriptor": "assets/pawfall.fx-leaf/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "ba05f81566bf670f74fe90c92314520219c3c6ee1001789d4a34c24fc7f26bd3",
+      "id": "pawfall.fx-leaf",
+      "license": "CC0-1.0",
+      "name": "fx_leaf",
+      "palette": [
+        "#0b3d1a",
+        "#1d7a2c",
+        "#3fae3f",
+        "#8ad65a"
+      ],
+      "preview": "assets/pawfall.fx-leaf/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 6,
+        "w": 6
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 394,
+      "description": "poof cloud",
+      "descriptor": "assets/pawfall.fx-poof/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "9fbd0dfd8dbe899b2e5adef450b1c5b86388fa288d453131b7585b071e3bad6a",
+      "id": "pawfall.fx-poof",
+      "license": "CC0-1.0",
+      "name": "fx_poof",
+      "palette": [
+        "#7a7688",
+        "#c4c4d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.fx-poof/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 152,
+      "description": "treasure sparkle burst",
+      "descriptor": "assets/pawfall.fx-sparkle/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "f9460351c6dfd737ed8d4fb9122ea976e53dd70895a1fe6f12430346919cc977",
+      "id": "pawfall.fx-sparkle",
+      "license": "CC0-1.0",
+      "name": "fx_sparkle",
+      "palette": [
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.fx-sparkle/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 8,
+        "w": 8
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 207,
+      "description": "water splash burst",
+      "descriptor": "assets/pawfall.fx-splash/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "d4219aacd853253353caec2c451920524eebe440ee6952e82ffa92a92f460caf",
+      "id": "pawfall.fx-splash",
+      "license": "CC0-1.0",
+      "name": "fx_splash",
+      "palette": [
+        "#2a6fd6",
+        "#7ec8ff",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.fx-splash/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 12,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 148,
+      "description": "dizzy stars orbiting",
+      "descriptor": "assets/pawfall.fx-stars/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "36760446b9366a4b70d3054242fe37c46c25c71bdfbcd0c78674c25e79b6e4e1",
+      "id": "pawfall.fx-stars",
+      "license": "CC0-1.0",
+      "name": "fx_stars",
+      "palette": [
+        "#d9a41a",
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.fx-stars/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 6,
+        "w": 14
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 201,
+      "description": "black tar blob splat",
+      "descriptor": "assets/pawfall.fx-tarsplat/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "1643bd94815cf2ccac0f4bfdab02a7e53bd1c0ef65b64b9d6f67aa36315dabfe",
+      "id": "pawfall.fx-tarsplat",
+      "license": "CC0-1.0",
+      "name": "fx_tarsplat",
+      "palette": [
+        "#1a1420",
+        "#3a2f48"
+      ],
+      "preview": "assets/pawfall.fx-tarsplat/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 12,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 118,
+      "description": "one 8px ladder segment (rails + rung), tiled vertically by the renderer",
+      "descriptor": "assets/pawfall.ladder/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "00978debd1576754ebb3602393824327880ed764401cc8281d6b13a72dc16103",
+      "id": "pawfall.ladder",
+      "license": "CC0-1.0",
+      "name": "ladder",
+      "palette": [
+        "#3d2610",
+        "#5a3a1a",
+        "#7b4f26",
+        "#a06a34"
+      ],
+      "preview": "assets/pawfall.ladder/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 8,
+        "w": 12
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 137,
+      "description": "ladder top segment poking above the path (with hole rim)",
+      "descriptor": "assets/pawfall.ladder-top/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "634d0fe3a263f592b7e25a29a67fb486bee589a456143ee66a8d742206010c63",
+      "id": "pawfall.ladder-top",
+      "license": "CC0-1.0",
+      "name": "ladder_top",
+      "palette": [
+        "#120a12",
+        "#241420",
+        "#3d2610",
+        "#5a3a1a",
+        "#7b4f26",
+        "#a06a34",
+        "#a87a2a",
+        "#d9a441"
+      ],
+      "preview": "assets/pawfall.ladder-top/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 8,
+        "w": 12
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 230,
+      "description": "rolling log, 4 rotation frames (end-grain rings visible), feet-anchored",
+      "descriptor": "assets/pawfall.log/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "024dcaaab3e69db0d55faf8356a811c573fdfe9bf7ab881dc01e1bdf8ca6c316",
+      "id": "pawfall.log",
+      "license": "CC0-1.0",
+      "name": "log",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a5a2a",
+        "#c48a4a"
+      ],
+      "preview": "assets/pawfall.log/preview.png",
+      "size": {
+        "frames": 4,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1904,
+      "description": "PAWFALL title logo: chunky 3D blocky letters, orange/yellow with dark outline, a paw print for the A, vine + leaf trim",
+      "descriptor": "assets/pawfall.logo/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "4129ab3a2bc4c583663219c96a940849247c9c43d920361643c51daf79f7a329",
+      "id": "pawfall.logo",
+      "license": "CC0-1.0",
+      "name": "logo",
+      "palette": [
+        "#0b3d1a",
+        "#120a12",
+        "#1a1420",
+        "#1d7a2c",
+        "#2f9a34",
+        "#3fae3f",
+        "#a8430f",
+        "#b8561a",
+        "#d63a2f",
+        "#f08a24",
+        "#ff7a1a",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.logo/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 56,
+        "w": 224
+      },
+      "tags": [
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 201,
+      "description": "spotty mushroom decor",
+      "descriptor": "assets/pawfall.mushroom/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "f3849ee09e393e4cf9095e1f55f6f9c26da2e73ad965b68b2a51953d7b5fca15",
+      "id": "pawfall.mushroom",
+      "license": "CC0-1.0",
+      "name": "mushroom",
+      "palette": [
+        "#8f7a3c",
+        "#c9b26a",
+        "#d63a2f",
+        "#d8e0f0",
+        "#ff7a1a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.mushroom/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 10
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 465,
+      "description": "small Pete peeking from the canopy / hanging from a branch (throwing pose frame1); anchor bottom-centre",
+      "descriptor": "assets/pawfall.pete-branch/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "1f8f72fc93a25d09ce8741c87b923b0728c695cf72203ba71ae7f47c608782ef",
+      "id": "pawfall.pete-branch",
+      "license": "CC0-1.0",
+      "name": "pete_branch",
+      "palette": [
+        "#0a0710",
+        "#1a1420",
+        "#1d7a2c",
+        "#2a2f55",
+        "#3d2610",
+        "#4a4468",
+        "#4f4b5e",
+        "#5a3a1a",
+        "#7a7688",
+        "#7b4f26",
+        "#8d96d6",
+        "#9a96a8",
+        "#a87a2a",
+        "#d9a41a",
+        "#e86a7a",
+        "#e8a0b0",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0a0"
+      ],
+      "preview": "assets/pawfall.pete-branch/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 24,
+        "w": 24
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 279,
+      "description": "Pete head icon for taunt banners (frame1 = grin)",
+      "descriptor": "assets/pawfall.pete-head/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "2f5a969cfd91b49cbb36b70e5ca6d380fc949763c2e1ef7a306a204cb48f4086",
+      "id": "pawfall.pete-head",
+      "license": "CC0-1.0",
+      "name": "pete_head",
+      "palette": [
+        "#0a0710",
+        "#1a1420",
+        "#4a4468",
+        "#4f4b5e",
+        "#7a7688",
+        "#9a96a8",
+        "#a87a2a",
+        "#d9a41a",
+        "#e86a7a",
+        "#e8a0b0",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0a0"
+      ],
+      "preview": "assets/pawfall.pete-head/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 797,
+      "description": "Perring Parkway Pete: fat grey rat, pinstripe suit, black shades, gold tooth, cigar-free (cheese-stick in mouth); smug stance",
+      "descriptor": "assets/pawfall.pete-idle/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "bd4859f8811dcbe6bffb3a32f3c864db7d17de327327640bd235111cadb26d2f",
+      "id": "pawfall.pete-idle",
+      "license": "CC0-1.0",
+      "name": "pete_idle",
+      "palette": [
+        "#0a0710",
+        "#1a1420",
+        "#2a2f55",
+        "#3a3450",
+        "#444c85",
+        "#4a4468",
+        "#4f4b5e",
+        "#7a7688",
+        "#8d96d6",
+        "#9a96a8",
+        "#a87a2a",
+        "#d9a41a",
+        "#e8a0b0",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0a0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.pete-idle/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 48,
+        "w": 40
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 926,
+      "description": "Pete laughing, belly shaking",
+      "descriptor": "assets/pawfall.pete-laugh/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "b2256a819d5dd224377aaa842ca2b4a9ca3ebe5407718b679625e9324f32f4fa",
+      "id": "pawfall.pete-laugh",
+      "license": "CC0-1.0",
+      "name": "pete_laugh",
+      "palette": [
+        "#0a0710",
+        "#1a1420",
+        "#2a2f55",
+        "#3a3450",
+        "#444c85",
+        "#4a4468",
+        "#4f4b5e",
+        "#7a7688",
+        "#8d96d6",
+        "#9a96a8",
+        "#a87a2a",
+        "#d9a41a",
+        "#e86a7a",
+        "#e8a0b0",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0a0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.pete-laugh/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 48,
+        "w": 40
+      },
+      "tags": [
+        "animated",
+        "module:colby",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 203,
+      "description": "the pit interior below the surface strip (dark dirt walls for tar/quick; water gets blue via renderer)",
+      "descriptor": "assets/pawfall.pit-depth/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "c443cd0863cc2121b3bb9e492122d4ffc06a8077c7a0ff75357ce29f069355fd",
+      "id": "pawfall.pit-depth",
+      "license": "CC0-1.0",
+      "name": "pit_depth",
+      "palette": [
+        "#241420",
+        "#3a2416",
+        "#5a3a22"
+      ],
+      "preview": "assets/pawfall.pit-depth/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 221,
+      "description": "mossy rock decor",
+      "descriptor": "assets/pawfall.rock/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "a82a27a58506bd21b83a6817f43418f15e562a8ea17c24daf8194505fb108c3a",
+      "id": "pawfall.rock",
+      "license": "CC0-1.0",
+      "name": "rock",
+      "palette": [
+        "#1d7a2c",
+        "#2f9a34",
+        "#311e1a",
+        "#3a2416",
+        "#3fae3f",
+        "#5a3a22",
+        "#7a5232",
+        "#a07338"
+      ],
+      "preview": "assets/pawfall.rock/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 14
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 217,
+      "description": "scorpion scuttle, 2 frames, tail curled",
+      "descriptor": "assets/pawfall.scorpion/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "90ef753c79cbdaed7968aaf841689f31989abb318c823b0c1786935decae5b2e",
+      "id": "pawfall.scorpion",
+      "license": "CC0-1.0",
+      "name": "scorpion",
+      "palette": [
+        "#1a1420",
+        "#1f4a12",
+        "#7a7688",
+        "#c4c4d0",
+        "#d63a2f",
+        "#ecece8",
+        "#ff4a3a"
+      ],
+      "preview": "assets/pawfall.scorpion/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 5610,
+      "description": "Sound effect \"brick_bump\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-brick-bump/asset.json",
+      "duration": 0.12,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "70d42ffca437ac7cd0ba5e38e3c3f013f31a61b579b7549a2bfd795e11f9e1c3",
+      "id": "pawfall.sfx-brick-bump",
+      "license": "CC0-1.0",
+      "name": "brick_bump",
+      "preview": "assets/pawfall.sfx-brick-bump/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 7445,
+      "description": "Sound effect \"croc_snap\" (4 voices)",
+      "descriptor": "assets/pawfall.sfx-croc-snap/asset.json",
+      "duration": 0.155,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "3a8bd9aa77795a948ce891b5a694c14d36544db3e7435d1581f5356b863de737",
+      "id": "pawfall.sfx-croc-snap",
+      "license": "CC0-1.0",
+      "name": "croc_snap",
+      "preview": "assets/pawfall.sfx-croc-snap/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 36551,
+      "description": "Sound effect \"die\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-die/asset.json",
+      "duration": 0.82,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "794257782ab9fa476a6bb992f150f01507e4b7687db2fcf78635ca58347b5afa",
+      "id": "pawfall.sfx-die",
+      "license": "CC0-1.0",
+      "name": "die",
+      "preview": "assets/pawfall.sfx-die/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 27100,
+      "description": "Sound effect \"fire_crackle\" (11 voices)",
+      "descriptor": "assets/pawfall.sfx-fire-crackle/asset.json",
+      "duration": 0.57,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "0103524776c5abcd6d57738d1140281b9b3e9ea0d940eecf8a3d18529fc050d5",
+      "id": "pawfall.sfx-fire-crackle",
+      "license": "CC0-1.0",
+      "name": "fire_crackle",
+      "preview": "assets/pawfall.sfx-fire-crackle/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 50014,
+      "description": "Sound effect \"gameover\" (5 voices)",
+      "descriptor": "assets/pawfall.sfx-gameover/asset.json",
+      "duration": 1.12,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "c9af9c5b3a38797820fdbb3199f7dca00ac28a107e8ee9522f1ce9de051f3f2d",
+      "id": "pawfall.sfx-gameover",
+      "license": "CC0-1.0",
+      "name": "gameover",
+      "preview": "assets/pawfall.sfx-gameover/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 8285,
+      "description": "Sound effect \"jump\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-jump/asset.json",
+      "duration": 0.18,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "2e1e2642ddd7284e869afb183c4df4f8fedade9589deccaa9e126447d7f88b7a",
+      "id": "pawfall.sfx-jump",
+      "license": "CC0-1.0",
+      "name": "jump",
+      "preview": "assets/pawfall.sfx-jump/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 9654,
+      "description": "Sound effect \"ladder\" (3 voices)",
+      "descriptor": "assets/pawfall.sfx-ladder/asset.json",
+      "duration": 0.21,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "6d5d93d89ee1feb424f04cc788aef40fb8608a373d5e7de10422a8ce92e66c38",
+      "id": "pawfall.sfx-ladder",
+      "license": "CC0-1.0",
+      "name": "ladder",
+      "preview": "assets/pawfall.sfx-ladder/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 7377,
+      "description": "Sound effect \"land\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-land/asset.json",
+      "duration": 0.16,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "33714d4ea5fb6631237aacadc8698ed84aaba347a547c34d3fc50c5d0fb056e7",
+      "id": "pawfall.sfx-land",
+      "license": "CC0-1.0",
+      "name": "land",
+      "preview": "assets/pawfall.sfx-land/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 9322,
+      "description": "Sound effect \"log_hit\" (3 voices)",
+      "descriptor": "assets/pawfall.sfx-log-hit/asset.json",
+      "duration": 0.2,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "ad3300d71b52be1d24e1e3ea79efbd64cabf18476dd1099eef4170846cc6628a",
+      "id": "pawfall.sfx-log-hit",
+      "license": "CC0-1.0",
+      "name": "log_hit",
+      "preview": "assets/pawfall.sfx-log-hit/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 2787,
+      "description": "Sound effect \"menu_move\" (1 voices)",
+      "descriptor": "assets/pawfall.sfx-menu-move/asset.json",
+      "duration": 0.06,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "b38750249d1658e9b16deec13e45af9fa288d9747deeb6cca746d3214008f23f",
+      "id": "pawfall.sfx-menu-move",
+      "license": "CC0-1.0",
+      "name": "menu_move",
+      "preview": "assets/pawfall.sfx-menu-move/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 9500,
+      "description": "Sound effect \"menu_select\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-menu-select/asset.json",
+      "duration": 0.21,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "45ef45bfae1384bbd82ed55128af3edf5ea1f0039a5c40c5c018bde5a6113787",
+      "id": "pawfall.sfx-menu-select",
+      "license": "CC0-1.0",
+      "name": "menu_select",
+      "preview": "assets/pawfall.sfx-menu-select/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 30837,
+      "description": "Sound effect \"oneup\" (7 voices)",
+      "descriptor": "assets/pawfall.sfx-oneup/asset.json",
+      "duration": 0.68,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "61ee5cb7c5c012cb854d9bacdc44e76b7167b38043be24988e144d9d288730f2",
+      "id": "pawfall.sfx-oneup",
+      "license": "CC0-1.0",
+      "name": "oneup",
+      "preview": "assets/pawfall.sfx-oneup/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 37636,
+      "description": "Sound effect \"pete_laugh\" (8 voices)",
+      "descriptor": "assets/pawfall.sfx-pete-laugh/asset.json",
+      "duration": 0.82,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "3373a4f91948ce96fdff1e069f19c5681e4e5e5cb6fef9bf38220ef47c27dc4d",
+      "id": "pawfall.sfx-pete-laugh",
+      "license": "CC0-1.0",
+      "name": "pete_laugh",
+      "preview": "assets/pawfall.sfx-pete-laugh/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 27760,
+      "description": "Sound effect \"quicksand\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-quicksand/asset.json",
+      "duration": 0.62,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "98b163242fe7d950c2b99a70d3dccfce68bbc0a4b96b9429ea8221ff2e13d7aa",
+      "id": "pawfall.sfx-quicksand",
+      "license": "CC0-1.0",
+      "name": "quicksand",
+      "preview": "assets/pawfall.sfx-quicksand/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 13610,
+      "description": "Sound effect \"respawn\" (3 voices)",
+      "descriptor": "assets/pawfall.sfx-respawn/asset.json",
+      "duration": 0.3,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "d5642a7e73a5cefaff147dca0b5cc03d29a7cf7ec2ceeaee2a3dbc40a0fa0cf8",
+      "id": "pawfall.sfx-respawn",
+      "license": "CC0-1.0",
+      "name": "respawn",
+      "preview": "assets/pawfall.sfx-respawn/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 11102,
+      "description": "Sound effect \"scorpion\" (3 voices)",
+      "descriptor": "assets/pawfall.sfx-scorpion/asset.json",
+      "duration": 0.24,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "77d6d7aa73afd07b62ed3f2e00d1b4ecb52cc5fae69eeaeb19ca1bc7600e67f8",
+      "id": "pawfall.sfx-scorpion",
+      "license": "CC0-1.0",
+      "name": "scorpion",
+      "preview": "assets/pawfall.sfx-scorpion/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 14469,
+      "description": "Sound effect \"screen_flip\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-screen-flip/asset.json",
+      "duration": 0.32,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "1711182665272ccef3048980f518a4d90b62bbbd2dd8478e03715aeeb0756843",
+      "id": "pawfall.sfx-screen-flip",
+      "license": "CC0-1.0",
+      "name": "screen_flip",
+      "preview": "assets/pawfall.sfx-screen-flip/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 27732,
+      "description": "Sound effect \"snake_hiss\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-snake-hiss/asset.json",
+      "duration": 0.62,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "0c028d78faccfdc1bc628d0c66467f3e5064dc18212de80c43ca01ce91645892",
+      "id": "pawfall.sfx-snake-hiss",
+      "license": "CC0-1.0",
+      "name": "snake_hiss",
+      "preview": "assets/pawfall.sfx-snake-hiss/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 21544,
+      "description": "Sound effect \"splash\" (6 voices)",
+      "descriptor": "assets/pawfall.sfx-splash/asset.json",
+      "duration": 0.47,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "f2eeb265e13aa3531bdf1537bafc98309c2864a2270165f66e0f2452d100bf99",
+      "id": "pawfall.sfx-splash",
+      "license": "CC0-1.0",
+      "name": "splash",
+      "preview": "assets/pawfall.sfx-splash/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 3414,
+      "description": "Sound effect \"step\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-step/asset.json",
+      "duration": 0.07,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "a87239c38d7cb1b1ffeaadb3d00f4e66a70e7450eee0ff6a8df248fef27becd7",
+      "id": "pawfall.sfx-step",
+      "license": "CC0-1.0",
+      "name": "step",
+      "preview": "assets/pawfall.sfx-step/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 10033,
+      "description": "Sound effect \"swing_grab\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-swing-grab/asset.json",
+      "duration": 0.22,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "1acfb92767923f911b834550cbafff464c8de09bc06cc70b9250eee3979cc484",
+      "id": "pawfall.sfx-swing-grab",
+      "license": "CC0-1.0",
+      "name": "swing_grab",
+      "preview": "assets/pawfall.sfx-swing-grab/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 12256,
+      "description": "Sound effect \"swing_release\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-swing-release/asset.json",
+      "duration": 0.27,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "f3907a98973e37260400b90ddb74ab2695e1181bbe64863776069511c59f4e1e",
+      "id": "pawfall.sfx-swing-release",
+      "license": "CC0-1.0",
+      "name": "swing_release",
+      "preview": "assets/pawfall.sfx-swing-release/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 16702,
+      "description": "Sound effect \"tar_glug\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-tar-glug/asset.json",
+      "duration": 0.37,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "e8cdbca7adf6f1de30d70b4fec7deebdbf7a364ab01f1988869c7d1e3eb3046c",
+      "id": "pawfall.sfx-tar-glug",
+      "license": "CC0-1.0",
+      "name": "tar_glug",
+      "preview": "assets/pawfall.sfx-tar-glug/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 2296,
+      "description": "Sound effect \"tick_low\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-tick-low/asset.json",
+      "duration": 0.045,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "0850db62e15bfb4d4706d448af9a76bf193722bc73dc49a128bdd11fd0413ec0",
+      "id": "pawfall.sfx-tick-low",
+      "license": "CC0-1.0",
+      "name": "tick_low",
+      "preview": "assets/pawfall.sfx-tick-low/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 23572,
+      "description": "Sound effect \"treasure\" (5 voices)",
+      "descriptor": "assets/pawfall.sfx-treasure/asset.json",
+      "duration": 0.52,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "0aac6f17b7365005b2f9afd45038f76cbcaf847321b44526779f788fba1f97df",
+      "id": "pawfall.sfx-treasure",
+      "license": "CC0-1.0",
+      "name": "treasure",
+      "preview": "assets/pawfall.sfx-treasure/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 50576,
+      "description": "Sound effect \"treasure_big\" (10 voices)",
+      "descriptor": "assets/pawfall.sfx-treasure-big/asset.json",
+      "duration": 1.12,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "3c0aa0584d0f622817d827372cfa6807581464bac1982f569b85d31df9ade16b",
+      "id": "pawfall.sfx-treasure-big",
+      "license": "CC0-1.0",
+      "name": "treasure_big",
+      "preview": "assets/pawfall.sfx-treasure-big/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 23272,
+      "description": "Sound effect \"tunnel_drop\" (2 voices)",
+      "descriptor": "assets/pawfall.sfx-tunnel-drop/asset.json",
+      "duration": 0.52,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "317d1225669ed08979a17e0da80625083e10b12b4c1a9203326a90f3586e940a",
+      "id": "pawfall.sfx-tunnel-drop",
+      "license": "CC0-1.0",
+      "name": "tunnel_drop",
+      "preview": "assets/pawfall.sfx-tunnel-drop/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 91735,
+      "description": "Sound effect \"victory\" (11 voices)",
+      "descriptor": "assets/pawfall.sfx-victory/asset.json",
+      "duration": 2.04,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "50a72256cc918f9d6de748a710f85814e83c4ba794113956cf4168f3578cb7be",
+      "id": "pawfall.sfx-victory",
+      "license": "CC0-1.0",
+      "name": "victory",
+      "preview": "assets/pawfall.sfx-victory/preview.png",
+      "tags": [
+        "chiptune",
+        "pawfall",
+        "procedural",
+        "sfx"
+      ],
+      "type": "sfx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 641,
+      "description": "Pete's billboard staked in the ground: 'PETE'S PARKWAY PICKLES' joke art (frame1 = flap); anchor bottom-centre",
+      "descriptor": "assets/pawfall.sign-pete/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "d0a3787eb36e53f8034d2c730390cb9f141785f61f6c936d86c766e3ed2693be",
+      "id": "pawfall.sign-pete",
+      "license": "CC0-1.0",
+      "name": "sign_pete",
+      "palette": [
+        "#0a0710",
+        "#0b3d1a",
+        "#1d7a2c",
+        "#2a2f55",
+        "#2f9a34",
+        "#3d2610",
+        "#3fae3f",
+        "#4f4b5e",
+        "#5a3a1a",
+        "#7a7688",
+        "#7b4f26",
+        "#8ad65a",
+        "#8d96b8",
+        "#8d96d6",
+        "#c8d0e0",
+        "#d9a41a",
+        "#e8a0b0",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.sign-pete/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 32,
+        "w": 40
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 292,
+      "description": "coiled cobra swaying, hood out, tongue flick (frames 0,1,2)",
+      "descriptor": "assets/pawfall.snake/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "5316469c40c6c6c4208116b924f687ed62658d38a7d4aabd05439682132b4d8d",
+      "id": "pawfall.snake",
+      "license": "CC0-1.0",
+      "name": "snake",
+      "palette": [
+        "#1a1420",
+        "#1d7a2c",
+        "#3fae3f",
+        "#e8e0a0",
+        "#ff4a3a",
+        "#ffd23a"
+      ],
+      "preview": "assets/pawfall.snake/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1924408,
+      "description": "Music track \"dusk\": 88 bpm, 16 bars, loops",
+      "descriptor": "assets/pawfall.song-dusk/asset.json",
+      "duration": 43.64,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "4fbe9dff530d4f23d84fd5099688e80673919fe19c19450bdfa1e539f350f866",
+      "id": "pawfall.song-dusk",
+      "license": "CC0-1.0",
+      "name": "dusk",
+      "preview": "assets/pawfall.song-dusk/preview.png",
+      "tags": [
+        "chiptune",
+        "loop",
+        "music",
+        "pawfall",
+        "procedural"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 238184,
+      "description": "Music track \"gameover\": 100 bpm, 2 bars, one-shot sting",
+      "descriptor": "assets/pawfall.song-gameover/asset.json",
+      "duration": 5.4,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "125cfeb1b241f8bc80659c6c628b0513011818ec97b1030cc9b29eaf1b5862d9",
+      "id": "pawfall.song-gameover",
+      "license": "CC0-1.0",
+      "name": "gameover",
+      "preview": "assets/pawfall.song-gameover/preview.png",
+      "tags": [
+        "chiptune",
+        "music",
+        "pawfall",
+        "procedural",
+        "sting"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1282954,
+      "description": "Music track \"jungle\": 132 bpm, 16 bars, loops",
+      "descriptor": "assets/pawfall.song-jungle/asset.json",
+      "duration": 29.09,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "fd4be14244be0be798939dd411db100abb009d1fa316a92c8bc2f69d03905935",
+      "id": "pawfall.song-jungle",
+      "license": "CC0-1.0",
+      "name": "jungle",
+      "preview": "assets/pawfall.song-jungle/preview.png",
+      "tags": [
+        "chiptune",
+        "loop",
+        "music",
+        "pawfall",
+        "procedural"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 672044,
+      "description": "Music track \"title\": 126 bpm, 8 bars, loops",
+      "descriptor": "assets/pawfall.song-title/asset.json",
+      "duration": 15.24,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "b1f6e64eaf1011eb1a1effb7e71efc66d24681fea166a2f0700b95f1faf32edf",
+      "id": "pawfall.song-title",
+      "license": "CC0-1.0",
+      "name": "title",
+      "preview": "assets/pawfall.song-title/preview.png",
+      "tags": [
+        "chiptune",
+        "loop",
+        "music",
+        "pawfall",
+        "procedural"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 1008044,
+      "description": "Music track \"underground\": 84 bpm, 8 bars, loops",
+      "descriptor": "assets/pawfall.song-underground/asset.json",
+      "duration": 22.86,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "ec34e9c9b60869c8105066693973b25378f87e63169679663d164b77fcfd21f4",
+      "id": "pawfall.song-underground",
+      "license": "CC0-1.0",
+      "name": "underground",
+      "preview": "assets/pawfall.song-underground/preview.png",
+      "tags": [
+        "chiptune",
+        "loop",
+        "music",
+        "pawfall",
+        "procedural"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 320504,
+      "description": "Music track \"victory\": 144 bpm, 4 bars, one-shot sting",
+      "descriptor": "assets/pawfall.song-victory/asset.json",
+      "duration": 7.27,
+      "format": "wav-pcm16-mono-22050",
+      "hash": "d936224b49367bd7d7685bb4373bfdb64dfa7bd80d549dc413c755043bd6e0a5",
+      "id": "pawfall.song-victory",
+      "license": "CC0-1.0",
+      "name": "victory",
+      "preview": "assets/pawfall.song-victory/preview.png",
+      "tags": [
+        "chiptune",
+        "music",
+        "pawfall",
+        "procedural",
+        "sting"
+      ],
+      "type": "song",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 82,
+      "description": "night sky star twinkle (2 frames)",
+      "descriptor": "assets/pawfall.star/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "478f830f8f5f46bea43f5eb58b7b818d0c3290246175fb914c31e52f6938fd8f",
+      "id": "pawfall.star",
+      "license": "CC0-1.0",
+      "name": "star",
+      "palette": [
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.star/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 3,
+        "w": 3
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 163,
+      "description": "stationary log lying across the path",
+      "descriptor": "assets/pawfall.stilllog/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "30206220d235027a52fccf565f1f2292d51d2a1cd17e07e65294df446b7e1a5c",
+      "id": "pawfall.stilllog",
+      "license": "CC0-1.0",
+      "name": "stilllog",
+      "palette": [
+        "#1a1420",
+        "#5a3a1a",
+        "#8a5a2a",
+        "#c48a4a"
+      ],
+      "preview": "assets/pawfall.stilllog/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 10,
+        "w": 18
+      },
+      "tags": [
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 195,
+      "description": "blocky sun/moon disc; renderer tints it via skyFor().sun",
+      "descriptor": "assets/pawfall.sun/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "47248e93bfebcd53ff9e8115a4f401ea32affab27cad34036c03ee24c5913d0e",
+      "id": "pawfall.sun",
+      "license": "CC0-1.0",
+      "name": "sun",
+      "palette": [
+        "#c2cadf",
+        "#d8e0f0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.sun/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 20,
+        "w": 20
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 147,
+      "description": "tunnel brick wall tile",
+      "descriptor": "assets/pawfall.tile-brick/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "1030880c8f671de71756449820e1c246573de46f6d180f34132d92b572fa84c9",
+      "id": "pawfall.tile-brick",
+      "license": "CC0-1.0",
+      "name": "tile_brick",
+      "palette": [
+        "#2a1810",
+        "#6e3319",
+        "#a0522d",
+        "#a95b34",
+        "#c4744a"
+      ],
+      "preview": "assets/pawfall.tile-brick/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 8,
+        "w": 16
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 272,
+      "description": "tunnel ceiling band with roots (2 variants) — seamless with tile_dirt",
+      "descriptor": "assets/pawfall.tile-ceil/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "a0c92ff4c62e495683d2a2015a0cfac7ac8034199b9376b14fe71e5db742974e",
+      "id": "pawfall.tile-ceil",
+      "license": "CC0-1.0",
+      "name": "tile_ceil",
+      "palette": [
+        "#241420",
+        "#3a2416",
+        "#3d2610",
+        "#5a3a1a",
+        "#5a3a22",
+        "#7a5232",
+        "#7b4f26"
+      ],
+      "preview": "assets/pawfall.tile-ceil/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 297,
+      "description": "dark earth under the path / tunnel floor (2 variants)",
+      "descriptor": "assets/pawfall.tile-dirt/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "22cb27a0f6cf74d70f3c21f835ac94e08eb9623cf34c5250a70c698c829bbdd5",
+      "id": "pawfall.tile-dirt",
+      "license": "CC0-1.0",
+      "name": "tile_dirt",
+      "palette": [
+        "#3a2416",
+        "#5a3a22",
+        "#7a5232"
+      ],
+      "preview": "assets/pawfall.tile-dirt/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 255,
+      "description": "jungle path surface strip tile (2 variants), top edge grassy",
+      "descriptor": "assets/pawfall.tile-path/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "97129f8a50375511c6f11318173aaf88459cc8d24476bb9f6474fdc36f2f6600",
+      "id": "pawfall.tile-path",
+      "license": "CC0-1.0",
+      "name": "tile_path",
+      "palette": [
+        "#1d7a2c",
+        "#2f9a34",
+        "#3a2416",
+        "#3fae3f",
+        "#7a5232",
+        "#8ad65a",
+        "#a87a2a",
+        "#d9a441",
+        "#f0c868"
+      ],
+      "preview": "assets/pawfall.tile-path/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 165,
+      "description": "quicksand surface, 3 frames, swirling",
+      "descriptor": "assets/pawfall.tile-quick/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "70fcdf509fbf3d205c4b5a18af4e99c837b28fb8b851afb2a8e53ade5e24ef19",
+      "id": "pawfall.tile-quick",
+      "license": "CC0-1.0",
+      "name": "tile_quick",
+      "palette": [
+        "#a87a2a",
+        "#b8903a",
+        "#e0c060",
+        "#f0c868"
+      ],
+      "preview": "assets/pawfall.tile-quick/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 164,
+      "description": "tar pit surface, 3 frames, bubbles",
+      "descriptor": "assets/pawfall.tile-tar/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "434b65c42c4648d2e5abc56449f6bf42676a71e25cce98a4f9e6eb470fb563f6",
+      "id": "pawfall.tile-tar",
+      "license": "CC0-1.0",
+      "name": "tile_tar",
+      "palette": [
+        "#1a1420",
+        "#3a2f48",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tile-tar/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 133,
+      "description": "dark tunnel interior with subtle speckle",
+      "descriptor": "assets/pawfall.tile-tunnel/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "1506b5879074e0dbcce0abe3b8621e51aeeedf0ce3709de0f4bd89faf851055f",
+      "id": "pawfall.tile-tunnel",
+      "license": "CC0-1.0",
+      "name": "tile_tunnel",
+      "palette": [
+        "#120a12",
+        "#241420"
+      ],
+      "preview": "assets/pawfall.tile-tunnel/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 16,
+        "w": 16
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 176,
+      "description": "pit water surface, 3 animation frames (scroll ripples)",
+      "descriptor": "assets/pawfall.tile-water/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "0a7dd14dd8fa78f56fe851da6f2da621c6baed9b092c48d2dfc078a8c35ba1fa",
+      "id": "pawfall.tile-water",
+      "license": "CC0-1.0",
+      "name": "tile_water",
+      "palette": [
+        "#1b4a9a",
+        "#2a6fd6",
+        "#7ec8ff",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tile-water/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 10,
+        "w": 16
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "tileset",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 3485,
+      "description": "title backdrop strip: jungle silhouette with Colby on a vine and a mountain, no text (drawn above the logo)",
+      "descriptor": "assets/pawfall.title-scene/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "a9c226eee95c22c73b786e0bbf204922443de39c0023076c82121f5053b4de40",
+      "id": "pawfall.title-scene",
+      "license": "CC0-1.0",
+      "name": "title_scene",
+      "palette": [
+        "#06240f",
+        "#0b3d1a",
+        "#1a1420",
+        "#1d7a2c",
+        "#1f4a12",
+        "#2a2f55",
+        "#2f9a34",
+        "#3d2610",
+        "#3fae3f",
+        "#444c85",
+        "#4f4b5e",
+        "#5a3a1a",
+        "#7b4f26",
+        "#7bd44a",
+        "#8a2a1a",
+        "#8f7a3c",
+        "#a8430f",
+        "#b8561a",
+        "#c9b26a",
+        "#d63a2f",
+        "#d8e0f0",
+        "#f08a24",
+        "#ff7a1a",
+        "#ff8fa3",
+        "#ffd23a",
+        "#fff0d0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.title-scene/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 110,
+        "w": 320
+      },
+      "tags": [
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 361,
+      "description": "round touch-control button base (frame1 = pressed), no glyph",
+      "descriptor": "assets/pawfall.touch-btn/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "f83c51768cb20ff03dcee95a399f79008796fd4c8f430f102d556980f1afe7ac",
+      "id": "pawfall.touch-btn",
+      "license": "CC0-1.0",
+      "name": "touch_btn",
+      "palette": [
+        "#1a1420",
+        "#1f1917",
+        "#5c564e",
+        "#8d7a3a",
+        "#d9a41a",
+        "#ffd23a",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.touch-btn/preview.png",
+      "size": {
+        "frames": 2,
+        "h": 32,
+        "w": 32
+      },
+      "tags": [
+        "animated",
+        "module:fx",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "fx",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 248,
+      "description": "diamond collar (ring-like) + sparkle",
+      "descriptor": "assets/pawfall.tr-collar/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "f1d16831a63d5683f7ad853fb8133cd3790d31d81ade5f8b692b88ca51e78944",
+      "id": "pawfall.tr-collar",
+      "license": "CC0-1.0",
+      "name": "tr_collar",
+      "palette": [
+        "#1a1420",
+        "#2a9ad6",
+        "#7ee8ff",
+        "#8d96b8",
+        "#c8f4ff",
+        "#d8e0f0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tr-collar/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 12,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 221,
+      "description": "gold bar stack + shimmer",
+      "descriptor": "assets/pawfall.tr-gold/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "304d106d59eb7b7d014c9d1ed6aff28681cb323be20596da89685afd054f9f4d",
+      "id": "pawfall.tr-gold",
+      "license": "CC0-1.0",
+      "name": "tr_gold",
+      "palette": [
+        "#1a1420",
+        "#d9a41a",
+        "#ffd23a",
+        "#fff0a0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tr-gold/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 12,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 209,
+      "description": "silver sardine tin/bar + shimmer",
+      "descriptor": "assets/pawfall.tr-sardine/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "989e577dffc7ab7a3358d57634fcaa51eb4226e20cee54929719ce2d5eddf9b3",
+      "id": "pawfall.tr-sardine",
+      "license": "CC0-1.0",
+      "name": "tr_sardine",
+      "palette": [
+        "#1a1420",
+        "#8d96b8",
+        "#d8e0f0",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tr-sardine/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 12,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 235,
+      "description": "tuna tin treasure + shimmer (3 frames)",
+      "descriptor": "assets/pawfall.tr-tuna/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "044278ba70c5914c5fc3f868155e98efa5043ed4ea8806b910037947a849b60a",
+      "id": "pawfall.tr-tuna",
+      "license": "CC0-1.0",
+      "name": "tr_tuna",
+      "palette": [
+        "#1a1420",
+        "#8d96b8",
+        "#c8d0e0",
+        "#d63a2f",
+        "#f4f8ff",
+        "#ff7a8a",
+        "#ffa8b4",
+        "#fff6e0"
+      ],
+      "preview": "assets/pawfall.tr-tuna/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 12,
+        "w": 12
+      },
+      "tags": [
+        "animated",
+        "module:critters",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 844,
+      "description": "jungle tree trunk, 3 variants, bark texture, root flare at bottom; anchor bottom-centre",
+      "descriptor": "assets/pawfall.trunk/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "8ab6cecb1de069f8550bddc3cab5105ec15a541f44cca64539352d26a77ea2a6",
+      "id": "pawfall.trunk",
+      "license": "CC0-1.0",
+      "name": "trunk",
+      "palette": [
+        "#1d7a2c",
+        "#2f9a34",
+        "#3d2610",
+        "#5a3a1a",
+        "#7b4f26",
+        "#a06a34"
+      ],
+      "preview": "assets/pawfall.trunk/preview.png",
+      "size": {
+        "frames": 3,
+        "h": 64,
+        "w": 14
+      },
+      "tags": [
+        "animated",
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 125,
+      "description": "the vine grab point (hanging knot with leaf)",
+      "descriptor": "assets/pawfall.vine-knot/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "67b6f00d4a1ba9913ae7338cfc2ada3b2562bf039c9665af06c88726378d95f9",
+      "id": "pawfall.vine-knot",
+      "license": "CC0-1.0",
+      "name": "vine_knot",
+      "palette": [
+        "#1d7a2c",
+        "#2f9a34",
+        "#3d2610",
+        "#3fae3f",
+        "#5a3a1a",
+        "#7b4f26",
+        "#8ad65a",
+        "#a06a34"
+      ],
+      "preview": "assets/pawfall.vine-knot/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 6,
+        "w": 6
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "PawFall team",
+      "bytes": 169,
+      "description": "branch stub the vine hangs from, drawn at the pivot",
+      "descriptor": "assets/pawfall.vine-pivot/asset.json",
+      "format": "png-strip-rgba",
+      "hash": "db8ade7b5c42dfcba887527c8302cb127c3a5cfcd3f28f0b4f0b471ecc93a013",
+      "id": "pawfall.vine-pivot",
+      "license": "CC0-1.0",
+      "name": "vine_pivot",
+      "palette": [
+        "#0b3d1a",
+        "#1d7a2c",
+        "#2f9a34",
+        "#3d2610",
+        "#3fae3f",
+        "#5a3a1a",
+        "#7b4f26",
+        "#a06a34"
+      ],
+      "preview": "assets/pawfall.vine-pivot/preview.png",
+      "size": {
+        "frames": 1,
+        "h": 10,
+        "w": 12
+      },
+      "tags": [
+        "module:world",
+        "pawfall",
+        "pixel-art"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    }
+  ],
+  "counts": {
+    "byType": {
+      "character": 17,
+      "fx": 12,
+      "sfx": 28,
+      "song": 6,
+      "sprite": 28,
+      "tileset": 9
+    },
+    "total": 100
+  },
+  "formatVersion": 1,
+  "library": {
+    "description": "Colby the jungle cat: sprites, tiles, fx, sfx and chiptune songs extracted from PawFall (procedural, deterministic).",
+    "hash": "df8161aa3573ac5694cdc5f3f66b7f5f7e48f959d14806b87063c385c6b3e5d1",
+    "license": "CC0-1.0",
+    "name": "pawfall-assets",
+    "tags": [],
+    "version": "0.1.0"
+  }
+}

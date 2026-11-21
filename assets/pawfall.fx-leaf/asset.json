@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "falling leaf particle (4 rotation frames)",
+  "files": [
+    {
+      "bytes": 149,
+      "path": "fx_leaf.png",
+      "sha256": "989adc190d7f838602d79aa4c46dd676b2612ea87f4b88abf7ee349f9d311eea"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "ba05f81566bf670f74fe90c92314520219c3c6ee1001789d4a34c24fc7f26bd3",
+  "id": "pawfall.fx-leaf",
+  "license": "CC0-1.0",
+  "name": "fx_leaf",
+  "palette": [
+    "#0b3d1a",
+    "#1d7a2c",
+    "#3fae3f",
+    "#8ad65a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 4,
+    "h": 6,
+    "w": 6
+  },
+  "tags": [
+    "animated",
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

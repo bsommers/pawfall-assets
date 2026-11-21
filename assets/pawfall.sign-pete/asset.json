@@ -1,0 +1,56 @@
+{
+  "author": "PawFall team",
+  "description": "Pete's billboard staked in the ground: 'PETE'S PARKWAY PICKLES' joke art (frame1 = flap); anchor bottom-centre",
+  "files": [
+    {
+      "bytes": 641,
+      "path": "sign_pete.png",
+      "sha256": "c306ca88e23cbd22f281d5fa4df8dd4552d9a2d15b88e2d7e5ed192ea3a60d89"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "d0a3787eb36e53f8034d2c730390cb9f141785f61f6c936d86c766e3ed2693be",
+  "id": "pawfall.sign-pete",
+  "license": "CC0-1.0",
+  "name": "sign_pete",
+  "palette": [
+    "#0a0710",
+    "#0b3d1a",
+    "#1d7a2c",
+    "#2a2f55",
+    "#2f9a34",
+    "#3d2610",
+    "#3fae3f",
+    "#4f4b5e",
+    "#5a3a1a",
+    "#7a7688",
+    "#7b4f26",
+    "#8ad65a",
+    "#8d96b8",
+    "#8d96d6",
+    "#c8d0e0",
+    "#d9a41a",
+    "#e8a0b0",
+    "#ff8fa3",
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 32,
+    "w": 40
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

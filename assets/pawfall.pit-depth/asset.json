@@ -1,0 +1,38 @@
+{
+  "author": "PawFall team",
+  "description": "the pit interior below the surface strip (dark dirt walls for tar/quick; water gets blue via renderer)",
+  "files": [
+    {
+      "bytes": 203,
+      "path": "pit_depth.png",
+      "sha256": "6f503edd42b38381745177024ed54c2388703264976569589fa4bfd995371ec2"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "c443cd0863cc2121b3bb9e492122d4ffc06a8077c7a0ff75357ce29f069355fd",
+  "id": "pawfall.pit-depth",
+  "license": "CC0-1.0",
+  "name": "pit_depth",
+  "palette": [
+    "#241420",
+    "#3a2416",
+    "#5a3a22"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 16,
+    "w": 16
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "tileset",
+  "version": "1.0.0"
+}

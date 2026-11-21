@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"dusk\": 88 bpm, 16 bars, loops",
+  "duration": 43.64,
+  "files": [
+    {
+      "bytes": 1924408,
+      "path": "dusk.wav",
+      "sha256": "4c73dca28d9910b3735c355c2ce456775c1734bb3a439fb7452dd158d3915e84"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "4fbe9dff530d4f23d84fd5099688e80673919fe19c19450bdfa1e539f350f866",
+  "id": "pawfall.song-dusk",
+  "license": "CC0-1.0",
+  "name": "dusk",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "loop",
+    "music",
+    "pawfall",
+    "procedural"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

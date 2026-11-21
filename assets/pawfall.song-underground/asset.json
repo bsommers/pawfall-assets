@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"underground\": 84 bpm, 8 bars, loops",
+  "duration": 22.86,
+  "files": [
+    {
+      "bytes": 1008044,
+      "path": "underground.wav",
+      "sha256": "866395f0a284feb2dc6072f4cf3a35a8756041f8f1800216671ae34eefe455cc"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "ec34e9c9b60869c8105066693973b25378f87e63169679663d164b77fcfd21f4",
+  "id": "pawfall.song-underground",
+  "license": "CC0-1.0",
+  "name": "underground",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "loop",
+    "music",
+    "pawfall",
+    "procedural"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

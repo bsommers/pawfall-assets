@@ -1,0 +1,31 @@
+{
+  "author": "PawFall team",
+  "description": "Music track \"jungle\": 132 bpm, 16 bars, loops",
+  "duration": 29.09,
+  "files": [
+    {
+      "bytes": 1282954,
+      "path": "jungle.wav",
+      "sha256": "051c6ced1d5f2015e7ba6e6960c0970903c5ebeb4919807face681432bc74a87"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "fd4be14244be0be798939dd411db100abb009d1fa316a92c8bc2f69d03905935",
+  "id": "pawfall.song-jungle",
+  "license": "CC0-1.0",
+  "name": "jungle",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/music.js tracker pattern (rendered offline)"
+  },
+  "tags": [
+    "chiptune",
+    "loop",
+    "music",
+    "pawfall",
+    "procedural"
+  ],
+  "type": "song",
+  "version": "1.0.0"
+}

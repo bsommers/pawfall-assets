@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "campfire/flame flicker, 3 frames, over a few logs",
+  "files": [
+    {
+      "bytes": 261,
+      "path": "fire.png",
+      "sha256": "ed1376c9af58e2e7422449fdb3df7657084d9d858987e61d6865a5f0dc24f816"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "a7b718bda27c6f6c2b39d44edf56e4e21456269f272b9b0799b1cd12f7a90b6b",
+  "id": "pawfall.fire",
+  "license": "CC0-1.0",
+  "name": "fire",
+  "palette": [
+    "#1a1420",
+    "#5a3a1a",
+    "#8a5a2a",
+    "#c48a4a",
+    "#d63a2f",
+    "#ff7a1a",
+    "#ffd23a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 16,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

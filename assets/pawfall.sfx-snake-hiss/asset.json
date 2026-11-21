@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"snake_hiss\" (2 voices)",
+  "duration": 0.62,
+  "files": [
+    {
+      "bytes": 346,
+      "path": "snake_hiss.voices.json",
+      "sha256": "6e694cd39aaeffaebdd596fcc0cf92a94959dd0fcf027db837919f1ac1c49e54"
+    },
+    {
+      "bytes": 27386,
+      "path": "snake_hiss.wav",
+      "sha256": "18cac1ee310a8fa05b70be9dea29d800815b8b2bcc5cb54f85661ae90fdac8a7"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "0c028d78faccfdc1bc628d0c66467f3e5064dc18212de80c43ca01ce91645892",
+  "id": "pawfall.sfx-snake-hiss",
+  "license": "CC0-1.0",
+  "name": "snake_hiss",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

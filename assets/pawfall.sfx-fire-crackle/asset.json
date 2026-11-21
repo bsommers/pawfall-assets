@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"fire_crackle\" (11 voices)",
+  "duration": 0.57,
+  "files": [
+    {
+      "bytes": 1918,
+      "path": "fire_crackle.voices.json",
+      "sha256": "9809e526377c5f34ba25fccd8d297e33fa554e7aff1b1ebb075b5f307a7de8db"
+    },
+    {
+      "bytes": 25182,
+      "path": "fire_crackle.wav",
+      "sha256": "0f7cf2faded8e91b3213c6ea449ff71c5dc49072b756cf424b601b368b28285c"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "0103524776c5abcd6d57738d1140281b9b3e9ea0d940eecf8a3d18529fc050d5",
+  "id": "pawfall.sfx-fire-crackle",
+  "license": "CC0-1.0",
+  "name": "fire_crackle",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

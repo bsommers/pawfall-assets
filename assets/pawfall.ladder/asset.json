@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "one 8px ladder segment (rails + rung), tiled vertically by the renderer",
+  "files": [
+    {
+      "bytes": 118,
+      "path": "ladder.png",
+      "sha256": "db2eddc24cf565739024131fd4cd0bdefdaaf18211c5bb7d8e9b9cf249c043fa"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "00978debd1576754ebb3602393824327880ed764401cc8281d6b13a72dc16103",
+  "id": "pawfall.ladder",
+  "license": "CC0-1.0",
+  "name": "ladder",
+  "palette": [
+    "#3d2610",
+    "#5a3a1a",
+    "#7b4f26",
+    "#a06a34"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 8,
+    "w": 12
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,39 @@
+{
+  "author": "PawFall team",
+  "description": "stationary log lying across the path",
+  "files": [
+    {
+      "bytes": 163,
+      "path": "stilllog.png",
+      "sha256": "91a7c289e3cd62e154fa321d539c5fdc2c21020f9225b5d23c2f32eeaf78fa1e"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "30206220d235027a52fccf565f1f2292d51d2a1cd17e07e65294df446b7e1a5c",
+  "id": "pawfall.stilllog",
+  "license": "CC0-1.0",
+  "name": "stilllog",
+  "palette": [
+    "#1a1420",
+    "#5a3a1a",
+    "#8a5a2a",
+    "#c48a4a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 10,
+    "w": 18
+  },
+  "tags": [
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

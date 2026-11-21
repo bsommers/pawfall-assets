@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "crocodile head+snout above water: frame0 mouth CLOSED (flat top, safe to stand), frame1 mouth OPEN (teeth, deadly). Anchor bottom-centre at water line",
+  "files": [
+    {
+      "bytes": 231,
+      "path": "croc.png",
+      "sha256": "616dbbe36fca61924437008ed3efaacec24f796dcd1a162aede2cf032717eca3"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "dca9c05daa7eb5481c9fd1cb10b929c9aa9d97ad5769f7233d42de9676eabaf0",
+  "id": "pawfall.croc",
+  "license": "CC0-1.0",
+  "name": "croc",
+  "palette": [
+    "#1a1420",
+    "#2f5a28",
+    "#4f8a3a",
+    "#b8425a",
+    "#e86a7a",
+    "#ffd23a",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 12,
+    "w": 24
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

@@ -1,0 +1,55 @@
+{
+  "author": "PawFall team",
+  "description": "small Pete peeking from the canopy / hanging from a branch (throwing pose frame1); anchor bottom-centre",
+  "files": [
+    {
+      "bytes": 465,
+      "path": "pete_branch.png",
+      "sha256": "75d15c819497bdb8256b597fa943c80262f42f7c79a3421d74e81e353e3cf4e2"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "1f8f72fc93a25d09ce8741c87b923b0728c695cf72203ba71ae7f47c608782ef",
+  "id": "pawfall.pete-branch",
+  "license": "CC0-1.0",
+  "name": "pete_branch",
+  "palette": [
+    "#0a0710",
+    "#1a1420",
+    "#1d7a2c",
+    "#2a2f55",
+    "#3d2610",
+    "#4a4468",
+    "#4f4b5e",
+    "#5a3a1a",
+    "#7a7688",
+    "#7b4f26",
+    "#8d96d6",
+    "#9a96a8",
+    "#a87a2a",
+    "#d9a41a",
+    "#e86a7a",
+    "#e8a0b0",
+    "#ff8fa3",
+    "#ffd23a",
+    "#fff0a0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 24,
+    "w": 24
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

@@ -1,0 +1,44 @@
+{
+  "author": "PawFall team",
+  "description": "mossy rock decor",
+  "files": [
+    {
+      "bytes": 221,
+      "path": "rock.png",
+      "sha256": "8677b17d09cdbef80ae71ef2b2503809a3f979a11edef2d3b9527fc9f906d1a9"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "a82a27a58506bd21b83a6817f43418f15e562a8ea17c24daf8194505fb108c3a",
+  "id": "pawfall.rock",
+  "license": "CC0-1.0",
+  "name": "rock",
+  "palette": [
+    "#1d7a2c",
+    "#2f9a34",
+    "#311e1a",
+    "#3a2416",
+    "#3fae3f",
+    "#5a3a22",
+    "#7a5232",
+    "#a07338"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 10,
+    "w": 14
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

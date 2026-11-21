@@ -1,0 +1,48 @@
+{
+  "author": "PawFall team",
+  "description": "ladder climb, seen from behind/side, alternate paws",
+  "files": [
+    {
+      "bytes": 335,
+      "path": "colby_climb.png",
+      "sha256": "d3ada9d3066f6203e5991925dd47a16a810a5aaa6f3284d5537b62bbb36c5320"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "268edff99c1a420400fb7322c0cc8ed8c306ce0e02ffea27b06ddb7f46b5b266",
+  "id": "pawfall.colby-climb",
+  "license": "CC0-1.0",
+  "name": "colby_climb",
+  "palette": [
+    "#1a1420",
+    "#5a3a1a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#a8430f",
+    "#b8561a",
+    "#c9b26a",
+    "#d63a2f",
+    "#e8d68a",
+    "#f08a24",
+    "#ffc26a",
+    "#fff0d0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 24,
+    "w": 16
+  },
+  "tags": [
+    "animated",
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

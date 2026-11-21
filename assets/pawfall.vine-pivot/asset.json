@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "branch stub the vine hangs from, drawn at the pivot",
+  "files": [
+    {
+      "bytes": 169,
+      "path": "vine_pivot.png",
+      "sha256": "437ede4cf81672dfbdafae803a28a520a5192458463db18f18455c73e995b358"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "db8ade7b5c42dfcba887527c8302cb127c3a5cfcd3f28f0b4f0b471ecc93a013",
+  "id": "pawfall.vine-pivot",
+  "license": "CC0-1.0",
+  "name": "vine_pivot",
+  "palette": [
+    "#0b3d1a",
+    "#1d7a2c",
+    "#2f9a34",
+    "#3d2610",
+    "#3fae3f",
+    "#5a3a1a",
+    "#7b4f26",
+    "#a06a34"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 10,
+    "w": 12
+  },
+  "tags": [
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

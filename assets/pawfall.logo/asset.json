@@ -1,0 +1,50 @@
+{
+  "author": "PawFall team",
+  "description": "PAWFALL title logo: chunky 3D blocky letters, orange/yellow with dark outline, a paw print for the A, vine + leaf trim",
+  "files": [
+    {
+      "bytes": 1904,
+      "path": "logo.png",
+      "sha256": "ad5e8766669ad15c38262d5be797d0f615dcc82a36c48220fa9be6b50fd7a1c4"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "4129ab3a2bc4c583663219c96a940849247c9c43d920361643c51daf79f7a329",
+  "id": "pawfall.logo",
+  "license": "CC0-1.0",
+  "name": "logo",
+  "palette": [
+    "#0b3d1a",
+    "#120a12",
+    "#1a1420",
+    "#1d7a2c",
+    "#2f9a34",
+    "#3fae3f",
+    "#a8430f",
+    "#b8561a",
+    "#d63a2f",
+    "#f08a24",
+    "#ff7a1a",
+    "#ff8fa3",
+    "#ffd23a",
+    "#fff0d0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/fx.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 56,
+    "w": 224
+  },
+  "tags": [
+    "module:fx",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "fx",
+  "version": "1.0.0"
+}

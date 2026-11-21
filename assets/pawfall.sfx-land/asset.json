@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"land\" (2 voices)",
+  "duration": 0.16,
+  "files": [
+    {
+      "bytes": 277,
+      "path": "land.voices.json",
+      "sha256": "e67a103eaa5999ae46db9d2c9dd78049a41398240d32b66ee5aba2771cdfd670"
+    },
+    {
+      "bytes": 7100,
+      "path": "land.wav",
+      "sha256": "d29a167aafffe6cc6475454d234f107dee3ae3d539131905eeaeb31180b6dda4"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "33714d4ea5fb6631237aacadc8698ed84aaba347a547c34d3fc50c5d0fb056e7",
+  "id": "pawfall.sfx-land",
+  "license": "CC0-1.0",
+  "name": "land",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

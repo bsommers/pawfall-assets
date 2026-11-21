@@ -1,0 +1,40 @@
+{
+  "author": "PawFall team",
+  "description": "silver sardine tin/bar + shimmer",
+  "files": [
+    {
+      "bytes": 209,
+      "path": "tr_sardine.png",
+      "sha256": "bfa2a718d949320fa60f4b650d206f5ce9eeec418335192659c51da6a49232d8"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "989e577dffc7ab7a3358d57634fcaa51eb4226e20cee54929719ce2d5eddf9b3",
+  "id": "pawfall.tr-sardine",
+  "license": "CC0-1.0",
+  "name": "tr_sardine",
+  "palette": [
+    "#1a1420",
+    "#8d96b8",
+    "#d8e0f0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 12,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

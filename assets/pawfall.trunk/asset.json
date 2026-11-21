@@ -1,0 +1,42 @@
+{
+  "author": "PawFall team",
+  "description": "jungle tree trunk, 3 variants, bark texture, root flare at bottom; anchor bottom-centre",
+  "files": [
+    {
+      "bytes": 844,
+      "path": "trunk.png",
+      "sha256": "6837c51f410b2865db7e0650157dbbe9e62838b6c127754b79ce4400f7753f87"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "8ab6cecb1de069f8550bddc3cab5105ec15a541f44cca64539352d26a77ea2a6",
+  "id": "pawfall.trunk",
+  "license": "CC0-1.0",
+  "name": "trunk",
+  "palette": [
+    "#1d7a2c",
+    "#2f9a34",
+    "#3d2610",
+    "#5a3a1a",
+    "#7b4f26",
+    "#a06a34"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 64,
+    "w": 14
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

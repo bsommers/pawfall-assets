@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"scorpion\" (3 voices)",
+  "duration": 0.24,
+  "files": [
+    {
+      "bytes": 474,
+      "path": "scorpion.voices.json",
+      "sha256": "7318cca1f0eb50c2c6270b1c26dd2a93e33c6ce46b574077722804caff1bceb2"
+    },
+    {
+      "bytes": 10628,
+      "path": "scorpion.wav",
+      "sha256": "029ac7d699c0f6f38f7a9b2654d6e25acd77d937dd85dabde47c377188edc5f1"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "77d6d7aa73afd07b62ed3f2e00d1b4ecb52cc5fae69eeaeb19ca1bc7600e67f8",
+  "id": "pawfall.sfx-scorpion",
+  "license": "CC0-1.0",
+  "name": "scorpion",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

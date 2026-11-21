@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"jump\" (2 voices)",
+  "duration": 0.18,
+  "files": [
+    {
+      "bytes": 303,
+      "path": "jump.voices.json",
+      "sha256": "b58485f08247604de6203b3e8661919b48d84ffc913c11e2a30f87f0cfbb3a12"
+    },
+    {
+      "bytes": 7982,
+      "path": "jump.wav",
+      "sha256": "c107b8cffb4b30003b057570fd831940f55129359e2dfe733d92ef01cb69f680"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "2e1e2642ddd7284e869afb183c4df4f8fedade9589deccaa9e126447d7f88b7a",
+  "id": "pawfall.sfx-jump",
+  "license": "CC0-1.0",
+  "name": "jump",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

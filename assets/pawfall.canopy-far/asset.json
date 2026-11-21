@@ -1,0 +1,42 @@
+{
+  "author": "PawFall team",
+  "description": "darker, smaller far canopy for parallax behind (tileable x)",
+  "files": [
+    {
+      "bytes": 1113,
+      "path": "canopy_far.png",
+      "sha256": "4a82b9461c2d66141446643a6e297b937d1ec20840ceaa2114c783a7469682c2"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "06ea80e51717ddf03c0efb7a612cf9435f8401914d526b6d86541f0aaa377a0b",
+  "id": "pawfall.canopy-far",
+  "license": "CC0-1.0",
+  "name": "canopy_far",
+  "palette": [
+    "#06240f",
+    "#093416",
+    "#155c22",
+    "#217127",
+    "#2b7e2e",
+    "#5c9840"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 28,
+    "w": 64
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

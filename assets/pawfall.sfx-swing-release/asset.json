@@ -1,0 +1,35 @@
+{
+  "author": "PawFall team",
+  "description": "Sound effect \"swing_release\" (2 voices)",
+  "duration": 0.27,
+  "files": [
+    {
+      "bytes": 304,
+      "path": "swing_release.voices.json",
+      "sha256": "e1cbaa9fef0ed220b05149d66dd2958504a49dba79e4fe7f277ff8bb838e721f"
+    },
+    {
+      "bytes": 11952,
+      "path": "swing_release.wav",
+      "sha256": "6bb6db0d1007f8d82c540095ca6684097be7d7ce09847f9566db2aa960cabb49"
+    }
+  ],
+  "format": "wav-pcm16-mono-22050",
+  "hash": "f3907a98973e37260400b90ddb74ab2695e1181bbe64863776069511c59f4e1e",
+  "id": "pawfall.sfx-swing-release",
+  "license": "CC0-1.0",
+  "name": "swing_release",
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/audio/sfx.js recipe (voices JSON included)"
+  },
+  "tags": [
+    "chiptune",
+    "pawfall",
+    "procedural",
+    "sfx"
+  ],
+  "type": "sfx",
+  "version": "1.0.0"
+}

@@ -1,0 +1,38 @@
+{
+  "author": "PawFall team",
+  "description": "foreground jungle leaf/fern silhouettes drawn IN FRONT of the player at screen edges for 2.xD depth (dark green, 3 variants)",
+  "files": [
+    {
+      "bytes": 1251,
+      "path": "fg_leaf.png",
+      "sha256": "cf8645fcbf980409c4842eb1565a2e914b1113eebdd874e52495df63209301ee"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "72f52a7d3fc6b2d492fc0eaec7f25b3c8d65e358d8a18de02dc86fbebf2c6193",
+  "id": "pawfall.fg-leaf",
+  "license": "CC0-1.0",
+  "name": "fg_leaf",
+  "palette": [
+    "#06240f",
+    "#0b3d1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 72,
+    "w": 40
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

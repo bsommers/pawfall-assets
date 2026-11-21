@@ -1,0 +1,44 @@
+{
+  "author": "PawFall team",
+  "description": "tiny Colby head icon for the HUD lives counter",
+  "files": [
+    {
+      "bytes": 144,
+      "path": "colby_life.png",
+      "sha256": "ec2b6ae2d6ed7f681cb48a99d92aa63d7c907b62111e375627720d661331192b"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "8ae66f657a9663fd193410e90a417256e5ebfc4fd02134b17153913a6d194cb8",
+  "id": "pawfall.colby-life",
+  "license": "CC0-1.0",
+  "name": "colby_life",
+  "palette": [
+    "#1a1420",
+    "#7bd44a",
+    "#8a2a1a",
+    "#8f7a3c",
+    "#c9b26a",
+    "#d63a2f",
+    "#f08a24",
+    "#ffc26a",
+    "#fff0d0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/colby.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 1,
+    "h": 8,
+    "w": 8
+  },
+  "tags": [
+    "module:colby",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

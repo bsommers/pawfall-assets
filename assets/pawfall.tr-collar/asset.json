@@ -1,0 +1,43 @@
+{
+  "author": "PawFall team",
+  "description": "diamond collar (ring-like) + sparkle",
+  "files": [
+    {
+      "bytes": 248,
+      "path": "tr_collar.png",
+      "sha256": "aa91aaff55087faa02e9d2842eec0300893a4fff677aa7eaf55f39fb912fbe01"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "f1d16831a63d5683f7ad853fb8133cd3790d31d81ade5f8b692b88ca51e78944",
+  "id": "pawfall.tr-collar",
+  "license": "CC0-1.0",
+  "name": "tr_collar",
+  "palette": [
+    "#1a1420",
+    "#2a9ad6",
+    "#7ee8ff",
+    "#8d96b8",
+    "#c8f4ff",
+    "#d8e0f0",
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/critters.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 3,
+    "h": 12,
+    "w": 12
+  },
+  "tags": [
+    "animated",
+    "module:critters",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

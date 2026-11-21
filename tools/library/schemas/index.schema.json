@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://game-factory/schemas/index.schema.json",
+  "title": "Library INDEX.json (generated; do not edit)",
+  "type": "object",
+  "required": ["formatVersion", "library", "counts", "assets"],
+  "additionalProperties": false,
+  "properties": {
+    "formatVersion": { "const": 1 },
+    "library": {
+      "type": "object", "required": ["name", "version", "license", "description", "tags", "hash"], "additionalProperties": false,
+      "properties": { "name": { "type": "string" }, "version": { "type": "string" }, "license": { "type": "string" }, "description": { "type": "string" }, "tags": { "type": "array", "items": { "type": "string" } }, "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" } }
+    },
+    "counts": { "type": "object", "required": ["total", "byType"], "properties": { "total": { "type": "integer", "minimum": 0 }, "byType": { "type": "object" } } },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object", "required": ["id", "type", "version", "tags", "license", "author", "hash", "descriptor", "bytes"],
+        "properties": {
+          "id": { "type": "string" }, "type": { "type": "string" }, "name": { "type": "string" }, "description": { "type": "string" }, "version": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } }, "license": { "type": "string" }, "author": { "type": "string" }, "format": { "type": "string" },
+          "size": { "type": "object" }, "duration": { "type": "number" }, "palette": { "type": "array", "items": { "type": "string" } },
+          "preview": { "type": "string" }, "descriptor": { "type": "string" }, "hash": { "type": "string" }, "bytes": { "type": "integer" },
+          "dependencies": { "type": "array", "items": { "type": "object" } }
+        }
+      }
+    }
+  }
+}

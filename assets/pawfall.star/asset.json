@@ -1,0 +1,37 @@
+{
+  "author": "PawFall team",
+  "description": "night sky star twinkle (2 frames)",
+  "files": [
+    {
+      "bytes": 82,
+      "path": "star.png",
+      "sha256": "6bbdb6e47ce81d77417c556675a7181564a3f153a4d3dd865f135ff0ab0e9510"
+    }
+  ],
+  "format": "png-strip-rgba",
+  "hash": "478f830f8f5f46bea43f5eb58b7b818d0c3290246175fb914c31e52f6938fd8f",
+  "id": "pawfall.star",
+  "license": "CC0-1.0",
+  "name": "star",
+  "palette": [
+    "#fff6e0"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawfall",
+    "generator": "src/art/world.js build() (deterministic, procedural)"
+  },
+  "size": {
+    "frames": 2,
+    "h": 3,
+    "w": 3
+  },
+  "tags": [
+    "animated",
+    "module:world",
+    "pawfall",
+    "pixel-art"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}
